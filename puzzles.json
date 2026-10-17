@@ -1,0 +1,4955 @@
+{
+  "version": 6,
+  "puzzles": [
+    {
+      "id": 1,
+      "groups": [
+        {
+          "level": 1,
+          "title": "Meyveler",
+          "words": [
+            "ELMA",
+            "ARMUT",
+            "AYVA",
+            "İNCİR"
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Gökyüzü",
+          "words": [
+            "AY",
+            "GÜNEŞ",
+            "YILDIZ",
+            "BULUT"
+          ]
+        },
+        {
+          "level": 3,
+          "title": "Yüzde bulunur",
+          "words": [
+            "GÖZ",
+            "BURUN",
+            "AĞIZ",
+            "KAŞ"
+          ]
+        },
+        {
+          "level": 4,
+          "title": "Hem isim hem fiil",
+          "words": [
+            "GÜL",
+            "YAZ",
+            "AT",
+            "YÜZ"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "groups": [
+        {
+          "level": 1,
+          "title": "Kahvaltılık",
+          "words": [
+            "ZEYTİN",
+            "PEYNİR",
+            "BAL",
+            "SUCUK"
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Hava durumu",
+          "words": [
+            "YAĞMUR",
+            "KAR",
+            "SİS",
+            "DOLU"
+          ]
+        },
+        {
+          "level": 3,
+          "title": "Burçlar",
+          "words": [
+            "KOÇ",
+            "BOĞA",
+            "YENGEÇ",
+            "BALIK"
+          ]
+        },
+        {
+          "level": 4,
+          "title": "Takım lakapları",
+          "words": [
+            "KANARYA",
+            "ASLAN",
+            "KARTAL",
+            "FIRTINA"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "groups": [
+        {
+          "level": 1,
+          "title": "Bebek eşyası",
+          "words": [
+            "BİBERON",
+            "EMZİK",
+            "BEZ",
+            "MAMA"
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Metaller",
+          "words": [
+            "GÜMÜŞ",
+            "BAKIR",
+            "DEMİR",
+            "KURŞUN"
+          ]
+        },
+        {
+          "level": 3,
+          "title": "Erkek isimleri",
+          "words": [
+            "MERT",
+            "EMRE",
+            "CAN",
+            "BARIŞ"
+          ]
+        },
+        {
+          "level": 4,
+          "title": "Bir sayıyla başlar",
+          "words": [
+            "ONUR",
+            "ALTIN",
+            "İKİZ",
+            "BEŞİK"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "groups": [
+        {
+          "level": 1,
+          "title": "Renkler",
+          "words": [
+            "MAVİ",
+            "YEŞİL",
+            "MOR",
+            "TURUNCU"
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Denizlerimiz",
+          "words": [
+            "KARADENİZ",
+            "AKDENİZ",
+            "EGE",
+            "MARMARA"
+          ]
+        },
+        {
+          "level": 3,
+          "title": "___ suyu",
+          "words": [
+            "MADEN",
+            "MEYVE",
+            "MUSLUK",
+            "DENİZ"
+          ]
+        },
+        {
+          "level": 4,
+          "title": "Kız isimleri",
+          "words": [
+            "DERYA",
+            "IRMAK",
+            "PINAR",
+            "MELTEM"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "groups": [
+        {
+          "level": 1,
+          "title": "Baharatlar",
+          "words": [
+            "KİMYON",
+            "NANE",
+            "KEKİK",
+            "SUMAK"
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Okul eşyası",
+          "words": [
+            "DEFTER",
+            "KALEM",
+            "SİLGİ",
+            "CETVEL"
+          ]
+        },
+        {
+          "level": 3,
+          "title": "İç organlar",
+          "words": [
+            "KALP",
+            "MİDE",
+            "AKCİĞER",
+            "BÖBREK"
+          ]
+        },
+        {
+          "level": 4,
+          "title": "+lık/lük ile eşya olur",
+          "words": [
+            "GÖZ",
+            "TUZ",
+            "KİTAP",
+            "KULAK"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "groups": [
+        {
+          "level": 1,
+          "title": "Mutfak eşyaları",
+          "words": [
+            "TENCERE",
+            "TAVA",
+            "KEPÇE",
+            "RENDE"
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Mevsimler",
+          "words": [
+            "İLKBAHAR",
+            "YAZ",
+            "SONBAHAR",
+            "KIŞ"
+          ]
+        },
+        {
+          "level": 3,
+          "title": "Evcil hayvanlar",
+          "words": [
+            "KEDİ",
+            "KÖPEK",
+            "TAVŞAN",
+            "KANARYA"
+          ]
+        },
+        {
+          "level": 4,
+          "title": "Çalgılar",
+          "words": [
+            "SAZ",
+            "DAVUL",
+            "ZURNA",
+            "KEMAN"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "groups": [
+        {
+          "level": 1,
+          "title": "Sebzeler",
+          "words": [
+            "HAVUÇ",
+            "PATATES",
+            "SOĞAN",
+            "PIRASA"
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Okulda bulunur",
+          "words": [
+            "ÖĞRETMEN",
+            "TAHTA",
+            "SINIF",
+            "ÖDEV"
+          ]
+        },
+        {
+          "level": 3,
+          "title": "Taşıtlar",
+          "words": [
+            "OTOBÜS",
+            "TREN",
+            "GEMİ",
+            "UÇAK"
+          ]
+        },
+        {
+          "level": 4,
+          "title": "Kuşlar",
+          "words": [
+            "KARGA",
+            "SERÇE",
+            "GÜVERCİN",
+            "MARTI"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "groups": [
+        {
+          "level": 1,
+          "title": "İçecekler",
+          "words": [
+            "ÇAY",
+            "KAHVE",
+            "AYRAN",
+            "ŞALGAM"
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Giysiler",
+          "words": [
+            "GÖMLEK",
+            "ETEK",
+            "CEKET",
+            "KAZAK"
+          ]
+        },
+        {
+          "level": 3,
+          "title": "Mobilyalar",
+          "words": [
+            "MASA",
+            "SANDALYE",
+            "DOLAP",
+            "KOLTUK"
+          ]
+        },
+        {
+          "level": 4,
+          "title": "Spor dalları",
+          "words": [
+            "FUTBOL",
+            "YÜZME",
+            "GÜREŞ",
+            "OKÇULUK"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "groups": [
+        {
+          "level": 1,
+          "title": "Tatlılar",
+          "words": [
+            "BAKLAVA",
+            "KÜNEFE",
+            "SÜTLAÇ",
+            "LOKUM"
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Çiçekler",
+          "words": [
+            "LALE",
+            "PAPATYA",
+            "MENEKŞE",
+            "KARANFİL"
+          ]
+        },
+        {
+          "level": 3,
+          "title": "Meslekler",
+          "words": [
+            "DOKTOR",
+            "AVUKAT",
+            "AŞÇI",
+            "PİLOT"
+          ]
+        },
+        {
+          "level": 4,
+          "title": "Gezegenler",
+          "words": [
+            "MARS",
+            "VENÜS",
+            "SATÜRN",
+            "JÜPİTER"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "groups": [
+        {
+          "level": 1,
+          "title": "Yönler",
+          "words": [
+            "KUZEY",
+            "GÜNEY",
+            "DOĞU",
+            "BATI"
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Sayılar",
+          "words": [
+            "BİR",
+            "İKİ",
+            "ÜÇ",
+            "DÖRT"
+          ]
+        },
+        {
+          "level": 3,
+          "title": "Günler",
+          "words": [
+            "PAZARTESİ",
+            "SALI",
+            "CUMA",
+            "PAZAR"
+          ]
+        },
+        {
+          "level": 4,
+          "title": "Aylar",
+          "words": [
+            "OCAK",
+            "MART",
+            "NİSAN",
+            "EKİM"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "groups": [
+        {
+          "level": 1,
+          "title": "Sofra eşyaları",
+          "words": [
+            "BIÇAK",
+            "KAŞIK",
+            "TABAK",
+            "BARDAK"
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Ağaçlar",
+          "words": [
+            "ÇAM",
+            "MEŞE",
+            "KAVAK",
+            "ÇINAR"
+          ]
+        },
+        {
+          "level": 3,
+          "title": "Vücut bölümleri",
+          "words": [
+            "OMUZ",
+            "DİZ",
+            "BİLEK",
+            "ENSE"
+          ]
+        },
+        {
+          "level": 4,
+          "title": "___ saati",
+          "words": [
+            "KOL",
+            "DUVAR",
+            "MASA",
+            "CEP"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "groups": [
+        {
+          "level": 1,
+          "title": "Şehirler",
+          "words": [
+            "ANKARA",
+            "İZMİR",
+            "KONYA",
+            "ADANA"
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Nehirler",
+          "words": [
+            "KIZILIRMAK",
+            "FIRAT",
+            "DİCLE",
+            "YEŞİLIRMAK"
+          ]
+        },
+        {
+          "level": 3,
+          "title": "Göller",
+          "words": [
+            "VAN",
+            "TUZ",
+            "EĞİRDİR",
+            "BEYŞEHİR"
+          ]
+        },
+        {
+          "level": 4,
+          "title": "Dağlar",
+          "words": [
+            "AĞRI",
+            "ERCİYES",
+            "ULUDAĞ",
+            "PALANDÖKEN"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "groups": [
+        {
+          "level": 1,
+          "title": "Meyveler",
+          "words": [
+            "ÇİLEK",
+            "KAVUN",
+            "ŞEFTALİ",
+            "ERİK"
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Takılar",
+          "words": [
+            "YÜZÜK",
+            "KOLYE",
+            "KÜPE",
+            "BİLEZİK"
+          ]
+        },
+        {
+          "level": 3,
+          "title": "Hava olayları",
+          "words": [
+            "RÜZGAR",
+            "ŞİMŞEK",
+            "DOLU",
+            "SİS"
+          ]
+        },
+        {
+          "level": 4,
+          "title": "Kız isimleri",
+          "words": [
+            "YAĞMUR",
+            "KUMSAL",
+            "SEVGİ",
+            "İNCİ"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "groups": [
+        {
+          "level": 1,
+          "title": "Kuruyemişler",
+          "words": [
+            "FINDIK",
+            "CEVİZ",
+            "BADEM",
+            "LEBLEBİ"
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Böcekler",
+          "words": [
+            "ARI",
+            "KARINCA",
+            "SİNEK",
+            "KELEBEK"
+          ]
+        },
+        {
+          "level": 3,
+          "title": "Masa oyunları",
+          "words": [
+            "SATRANÇ",
+            "TAVLA",
+            "OKEY",
+            "DAMA"
+          ]
+        },
+        {
+          "level": 4,
+          "title": "___ yeşili",
+          "words": [
+            "FISTIK",
+            "ÇİMEN",
+            "ZEYTİN",
+            "NANE"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "groups": [
+        {
+          "level": 1,
+          "title": "Evin bölümleri",
+          "words": [
+            "SALON",
+            "MUTFAK",
+            "BANYO",
+            "BALKON"
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Renkler",
+          "words": [
+            "KIRMIZI",
+            "SARI",
+            "MOR",
+            "LACİVERT"
+          ]
+        },
+        {
+          "level": 3,
+          "title": "Peynir çeşitleri",
+          "words": [
+            "BEYAZ",
+            "KAŞAR",
+            "TULUM",
+            "LOR"
+          ]
+        },
+        {
+          "level": 4,
+          "title": "Aletler",
+          "words": [
+            "ÇEKİÇ",
+            "PENSE",
+            "TESTERE",
+            "MATKAP"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "groups": [
+        {
+          "level": 1,
+          "title": "Tahıllar",
+          "words": [
+            "BUĞDAY",
+            "ARPA",
+            "ÇAVDAR",
+            "YULAF"
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Deniz canlıları",
+          "words": [
+            "AHTAPOT",
+            "YUNUS",
+            "KALAMAR",
+            "MİDYE"
+          ]
+        },
+        {
+          "level": 3,
+          "title": "Ülkeler",
+          "words": [
+            "JAPONYA",
+            "MISIR",
+            "İTALYA",
+            "BREZİLYA"
+          ]
+        },
+        {
+          "level": 4,
+          "title": "___ kahvesi",
+          "words": [
+            "TÜRK",
+            "DİBEK",
+            "MENENGİÇ",
+            "FİLTRE"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "groups": [
+        {
+          "level": 1,
+          "title": "Çiftlik hayvanları",
+          "words": [
+            "İNEK",
+            "KOYUN",
+            "KEÇİ",
+            "TAVUK"
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Süt ürünleri",
+          "words": [
+            "YOĞURT",
+            "TEREYAĞI",
+            "KAYMAK",
+            "KEFİR"
+          ]
+        },
+        {
+          "level": 3,
+          "title": "Hayvan yavruları",
+          "words": [
+            "KUZU",
+            "BUZAĞI",
+            "SIPA",
+            "CİVCİV"
+          ]
+        },
+        {
+          "level": 4,
+          "title": "___ dişi",
+          "words": [
+            "SÜT",
+            "AZI",
+            "KÖPEK",
+            "KESİCİ"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "groups": [
+        {
+          "level": 1,
+          "title": "Okul dersleri",
+          "words": [
+            "MATEMATİK",
+            "TARİH",
+            "COĞRAFYA",
+            "FİZİK"
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Zaman birimleri",
+          "words": [
+            "SANİYE",
+            "DAKİKA",
+            "HAFTA",
+            "YIL"
+          ]
+        },
+        {
+          "level": 3,
+          "title": "Kumaşlar",
+          "words": [
+            "İPEK",
+            "PAMUK",
+            "YÜN",
+            "KETEN"
+          ]
+        },
+        {
+          "level": 4,
+          "title": "___ kulesi",
+          "words": [
+            "SAAT",
+            "KIZ",
+            "GALATA",
+            "SU"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "groups": [
+        {
+          "level": 1,
+          "title": "Çiçekler",
+          "words": [
+            "GÜL",
+            "ORKİDE",
+            "SÜMBÜL",
+            "NERGİS"
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Başkentler",
+          "words": [
+            "PARİS",
+            "ROMA",
+            "BERLİN",
+            "MADRİD"
+          ]
+        },
+        {
+          "level": 3,
+          "title": "Bitki çayları",
+          "words": [
+            "ADAÇAYI",
+            "IHLAMUR",
+            "KUŞBURNU",
+            "PAPATYA"
+          ]
+        },
+        {
+          "level": 4,
+          "title": "Yaprağı yemekte kullanılır",
+          "words": [
+            "ASMA",
+            "DEFNE",
+            "LAHANA",
+            "PAZI"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "groups": [
+        {
+          "level": 1,
+          "title": "Ölçü birimleri",
+          "words": [
+            "METRE",
+            "LİTRE",
+            "GRAM",
+            "DERECE"
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Trafikte görülür",
+          "words": [
+            "ŞERİT",
+            "LAMBA",
+            "KAVŞAK",
+            "LEVHA"
+          ]
+        },
+        {
+          "level": 3,
+          "title": "Masal karakterleri",
+          "words": [
+            "KELOĞLAN",
+            "DEV",
+            "PERİ",
+            "CÜCE"
+          ]
+        },
+        {
+          "level": 4,
+          "title": "AY ile başlar",
+          "words": [
+            "AYVA",
+            "AYNA",
+            "AYRAN",
+            "AYAK"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "groups": [
+        {
+          "level": 1,
+          "title": "Kışın",
+          "words": [
+            "ATKI",
+            "BERE",
+            "KIZAK",
+            "SOBA"
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Plaj eşyaları",
+          "words": [
+            "ŞEMSİYE",
+            "HAVLU",
+            "MAYO",
+            "ŞEZLONG"
+          ]
+        },
+        {
+          "level": 3,
+          "title": "Sürüngenler",
+          "words": [
+            "YILAN",
+            "KERTENKELE",
+            "KAPLUMBAĞA",
+            "TİMSAH"
+          ]
+        },
+        {
+          "level": 4,
+          "title": "KAR ile başlar",
+          "words": [
+            "KARTAL",
+            "KARPUZ",
+            "KARGA",
+            "KARTOPU"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "groups": [
+        {
+          "level": 1,
+          "title": "Ev aletleri",
+          "words": [
+            "BUZDOLABI",
+            "FIRIN",
+            "SÜPÜRGE",
+            "MİKSER"
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Hastanede bulunur",
+          "words": [
+            "HEMŞİRE",
+            "AMBULANS",
+            "SEDYE",
+            "ŞIRINGA"
+          ]
+        },
+        {
+          "level": 3,
+          "title": "Tiyatro",
+          "words": [
+            "SAHNE",
+            "PERDE",
+            "OYUNCU",
+            "SUFLÖR"
+          ]
+        },
+        {
+          "level": 4,
+          "title": "Tersten de aynı okunur",
+          "words": [
+            "KAZAK",
+            "KABAK",
+            "NEDEN",
+            "ÜTÜ"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "groups": [
+        {
+          "level": 1,
+          "title": "Balıklar",
+          "words": [
+            "HAMSİ",
+            "LEVREK",
+            "ÇUPRA",
+            "PALAMUT"
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Futbol terimleri",
+          "words": [
+            "GOL",
+            "OFSAYT",
+            "KORNER",
+            "FAUL"
+          ]
+        },
+        {
+          "level": 3,
+          "title": "Pişirme yöntemleri",
+          "words": [
+            "KIZARTMA",
+            "HAŞLAMA",
+            "KAVURMA",
+            "BUĞULAMA"
+          ]
+        },
+        {
+          "level": 4,
+          "title": "Eski savaş eşyaları",
+          "words": [
+            "KILIÇ",
+            "KALKAN",
+            "MIZRAK",
+            "OK"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "groups": [
+        {
+          "level": 1,
+          "title": "Okunur",
+          "words": [
+            "KİTAP",
+            "DERGİ",
+            "GAZETE",
+            "ROMAN"
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Müzik",
+          "words": [
+            "NOTA",
+            "RİTİM",
+            "MELODİ",
+            "AKOR"
+          ]
+        },
+        {
+          "level": 3,
+          "title": "Bilgisayar parçaları",
+          "words": [
+            "FARE",
+            "KLAVYE",
+            "EKRAN",
+            "YAZICI"
+          ]
+        },
+        {
+          "level": 4,
+          "title": "Kemirgenler",
+          "words": [
+            "SİNCAP",
+            "KUNDUZ",
+            "SIÇAN",
+            "HAMSTER"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "groups": [
+        {
+          "level": 1,
+          "title": "Kişisel bakım",
+          "words": [
+            "ŞAMPUAN",
+            "SABUN",
+            "TARAK",
+            "PARFÜM"
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Aksesuarlar",
+          "words": [
+            "ŞAPKA",
+            "ÇANTA",
+            "KRAVAT",
+            "CÜZDAN"
+          ]
+        },
+        {
+          "level": 3,
+          "title": "Mimari öğeler",
+          "words": [
+            "KUBBE",
+            "MİNARE",
+            "KEMER",
+            "AVLU"
+          ]
+        },
+        {
+          "level": 4,
+          "title": "Satranç taşları",
+          "words": [
+            "ŞAH",
+            "VEZİR",
+            "KALE",
+            "AT"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "groups": [
+        {
+          "level": 1,
+          "title": "Matematik",
+          "words": [
+            "ÇIKARMA",
+            "ÇARPMA",
+            "BÖLME",
+            "KAREKÖK"
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Spor malzemeleri",
+          "words": [
+            "RAKET",
+            "FİLE",
+            "FORMA",
+            "KRAMPON"
+          ]
+        },
+        {
+          "level": 3,
+          "title": "Gece hayvanları",
+          "words": [
+            "BAYKUŞ",
+            "YARASA",
+            "KİRPİ",
+            "ATEŞBÖCEĞİ"
+          ]
+        },
+        {
+          "level": 4,
+          "title": "TOP ile başlar",
+          "words": [
+            "TOPUK",
+            "TOPRAK",
+            "TOPAÇ",
+            "TOPLAMA"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "groups": [
+        {
+          "level": 1,
+          "title": "Çorbalar",
+          "words": [
+            "MERCİMEK",
+            "EZOGELİN",
+            "TARHANA",
+            "YAYLA"
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Düğün",
+          "words": [
+            "GELİN",
+            "DAMAT",
+            "NİKAH",
+            "KINA"
+          ]
+        },
+        {
+          "level": 3,
+          "title": "Halk oyunları",
+          "words": [
+            "HORON",
+            "ZEYBEK",
+            "HALAY",
+            "KARŞILAMA"
+          ]
+        },
+        {
+          "level": 4,
+          "title": "İçinde bir vücut parçası saklı",
+          "words": [
+            "DİLEK",
+            "KOLON",
+            "KALPAK",
+            "BELGE"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "groups": [
+        {
+          "level": 1,
+          "title": "Su sporları",
+          "words": [
+            "YELKEN",
+            "SÖRF",
+            "DALIŞ",
+            "KANO"
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Tarım aletleri",
+          "words": [
+            "TIRPAN",
+            "ORAK",
+            "KAZMA",
+            "KÜREK"
+          ]
+        },
+        {
+          "level": 3,
+          "title": "Hayvan barınakları",
+          "words": [
+            "KÜMES",
+            "AHIR",
+            "KOVAN",
+            "YUVA"
+          ]
+        },
+        {
+          "level": 4,
+          "title": "Ünlemler",
+          "words": [
+            "YAŞASIN",
+            "EYVAH",
+            "AFERİN",
+            "HAYDİ"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "groups": [
+        {
+          "level": 1,
+          "title": "Yemekler",
+          "words": [
+            "KEBAP",
+            "KÖFTE",
+            "LAHMACUN",
+            "MANTI"
+          ]
+        },
+        {
+          "level": 2,
+          "title": "İstanbul semtleri",
+          "words": [
+            "KADIKÖY",
+            "BEŞİKTAŞ",
+            "ÜSKÜDAR",
+            "EMİNÖNÜ"
+          ]
+        },
+        {
+          "level": 3,
+          "title": "Futbolda mevkiler",
+          "words": [
+            "KALECİ",
+            "DEFANS",
+            "FORVET",
+            "LİBERO"
+          ]
+        },
+        {
+          "level": 4,
+          "title": "Padişah lakapları",
+          "words": [
+            "KANUNİ",
+            "YAVUZ",
+            "YILDIRIM",
+            "FATİH"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "groups": [
+        {
+          "level": 1,
+          "title": "Kayak merkezinde",
+          "words": [
+            "KAYAK",
+            "TELEFERİK",
+            "PİST",
+            "KASK"
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Edebiyat türleri",
+          "words": [
+            "DESTAN",
+            "ROMAN",
+            "HİKAYE",
+            "MASAL"
+          ]
+        },
+        {
+          "level": 3,
+          "title": "Gözde bulunur",
+          "words": [
+            "KİRPİK",
+            "KAŞ",
+            "GÖZBEBEĞİ",
+            "RETİNA"
+          ]
+        },
+        {
+          "level": 4,
+          "title": "Yan yana iki aynı harf",
+          "words": [
+            "SAAT",
+            "DİKKAT",
+            "MİLLET",
+            "ELLİ"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 31,
+      "groups": [
+        {
+          "level": 1,
+          "title": "Kahvaltılık",
+          "words": [
+            "REÇEL",
+            "YUMURTA",
+            "MENEMEN",
+            "PEKMEZ"
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Temizlik malzemeleri",
+          "words": [
+            "FARAŞ",
+            "PASPAS",
+            "SÜNGER",
+            "KOVA"
+          ]
+        },
+        {
+          "level": 3,
+          "title": "Burçlar",
+          "words": [
+            "TERAZİ",
+            "OĞLAK",
+            "İKİZLER",
+            "YAY"
+          ]
+        },
+        {
+          "level": 4,
+          "title": "Kız isimleri",
+          "words": [
+            "BAŞAK",
+            "DAMLA",
+            "MİNE",
+            "ÇAĞLA"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 32,
+      "groups": [
+        {
+          "level": 1,
+          "title": "Milliyetler",
+          "words": [
+            "ALMAN",
+            "İNGİLİZ",
+            "FRANSIZ",
+            "RUS"
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Evcil hayvanlar",
+          "words": [
+            "PAPAĞAN",
+            "HAMSTER",
+            "TAVŞAN",
+            "KANARYA"
+          ]
+        },
+        {
+          "level": 3,
+          "title": "Kesici aletler",
+          "words": [
+            "MAKAS",
+            "BALTA",
+            "NEŞTER",
+            "JİLET"
+          ]
+        },
+        {
+          "level": 4,
+          "title": "___ balığı",
+          "words": [
+            "KILIÇ",
+            "KÖPEK",
+            "JAPON",
+            "KEDİ"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 33,
+      "groups": [
+        {
+          "level": 1,
+          "title": "Sebzeler",
+          "words": [
+            "PATLICAN",
+            "BİBER",
+            "DOMATES",
+            "BAMYA"
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Yırtıcı kuşlar",
+          "words": [
+            "DOĞAN",
+            "ŞAHİN",
+            "ATMACA",
+            "KARTAL"
+          ]
+        },
+        {
+          "level": 3,
+          "title": "Nehirler",
+          "words": [
+            "ÇORUH",
+            "GEDİZ",
+            "ASİ",
+            "ARDA"
+          ]
+        },
+        {
+          "level": 4,
+          "title": "Erkek isimleri",
+          "words": [
+            "TOLGA",
+            "KAAN",
+            "OĞUZ",
+            "BERK"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 34,
+      "groups": [
+        {
+          "level": 1,
+          "title": "Geometrik şekiller",
+          "words": [
+            "KARE",
+            "DAİRE",
+            "ELİPS",
+            "YAMUK"
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Askeri rütbeler",
+          "words": [
+            "ER",
+            "ÇAVUŞ",
+            "TEĞMEN",
+            "ALBAY"
+          ]
+        },
+        {
+          "level": 3,
+          "title": "Marmara'daki iller",
+          "words": [
+            "EDİRNE",
+            "TEKİRDAĞ",
+            "YALOVA",
+            "BİLECİK"
+          ]
+        },
+        {
+          "level": 4,
+          "title": "İçinde bir sayı saklı",
+          "words": [
+            "KIRKLARELİ",
+            "ÜÇGEN",
+            "BEŞİKTAŞ",
+            "ONBAŞI"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 35,
+      "groups": [
+        {
+          "level": 1,
+          "title": "Soslar",
+          "words": [
+            "KETÇAP",
+            "MAYONEZ",
+            "HARDAL",
+            "PESTO"
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Yönler",
+          "words": [
+            "SAĞ",
+            "SOL",
+            "İLERİ",
+            "GERİ"
+          ]
+        },
+        {
+          "level": 3,
+          "title": "Dans türleri",
+          "words": [
+            "TANGO",
+            "VALS",
+            "SAMBA",
+            "SALSA"
+          ]
+        },
+        {
+          "level": 4,
+          "title": "Notalar",
+          "words": [
+            "DO",
+            "RE",
+            "FA",
+            "LA"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 36,
+      "groups": [
+        {
+          "level": 1,
+          "title": "Çölde bulunur",
+          "words": [
+            "AKREP",
+            "KAKTÜS",
+            "VAHA",
+            "KUM"
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Bitkiler",
+          "words": [
+            "YOSUN",
+            "SARMAŞIK",
+            "EĞRELTİ",
+            "ÇİM"
+          ]
+        },
+        {
+          "level": 3,
+          "title": "Konuşma türleri",
+          "words": [
+            "SOHBET",
+            "MÜNAZARA",
+            "NUTUK",
+            "DEDİKODU"
+          ]
+        },
+        {
+          "level": 4,
+          "title": "___ kuşu",
+          "words": [
+            "DEVE",
+            "MUHABBET",
+            "SAKA",
+            "ÇALI"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 37,
+      "groups": [
+        {
+          "level": 1,
+          "title": "Kuruyemişler",
+          "words": [
+            "CEVİZ",
+            "BADEM",
+            "LEBLEBİ",
+            "KAJU"
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Gökyüzünde",
+          "words": [
+            "AY",
+            "YILDIZ",
+            "METEOR",
+            "GEZEGEN"
+          ]
+        },
+        {
+          "level": 3,
+          "title": "Deniz ürünleri",
+          "words": [
+            "KARİDES",
+            "MİDYE",
+            "İSTAKOZ",
+            "KALAMAR"
+          ]
+        },
+        {
+          "level": 4,
+          "title": "___ yağı",
+          "words": [
+            "ZEYTİN",
+            "FINDIK",
+            "BALIK",
+            "GÜNEŞ"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 38,
+      "groups": [
+        {
+          "level": 1,
+          "title": "Tatlılar",
+          "words": [
+            "AŞURE",
+            "HELVA",
+            "REVANİ",
+            "TULUMBA"
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Vücutta hissedilir",
+          "words": [
+            "SANCI",
+            "SIZI",
+            "KRAMP",
+            "KAŞINTI"
+          ]
+        },
+        {
+          "level": 3,
+          "title": "Askeri birlikler",
+          "words": [
+            "KIŞLA",
+            "TABUR",
+            "ALAY",
+            "BÖLÜK"
+          ]
+        },
+        {
+          "level": 4,
+          "title": "İl adları",
+          "words": [
+            "ORDU",
+            "AĞRI",
+            "KARS",
+            "MUŞ"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 39,
+      "groups": [
+        {
+          "level": 1,
+          "title": "Balıklar",
+          "words": [
+            "LÜFER",
+            "İSTAVRİT",
+            "SARDALYA",
+            "KEFAL"
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Baharatlar",
+          "words": [
+            "ZENCEFİL",
+            "TARÇIN",
+            "ZERDEÇAL",
+            "VANİLYA"
+          ]
+        },
+        {
+          "level": 3,
+          "title": "Geleneksel gösteriler",
+          "words": [
+            "HACİVAT",
+            "ORTAOYUNU",
+            "MEDDAH",
+            "KUKLA"
+          ]
+        },
+        {
+          "level": 4,
+          "title": "Bir renkle başlar",
+          "words": [
+            "MORİNA",
+            "SARIMSAK",
+            "AKREP",
+            "KARAGÖZ"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 40,
+      "groups": [
+        {
+          "level": 1,
+          "title": "Şehirler",
+          "words": [
+            "BURSA",
+            "MANİSA",
+            "AYDIN",
+            "DENİZLİ"
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Coğrafya terimleri",
+          "words": [
+            "PUSULA",
+            "ENLEM",
+            "BOYLAM",
+            "ÖLÇEK"
+          ]
+        },
+        {
+          "level": 3,
+          "title": "Tarih terimleri",
+          "words": [
+            "İSTİKLAL",
+            "CUMHURİYET",
+            "ZAFER",
+            "İNKILAP"
+          ]
+        },
+        {
+          "level": 4,
+          "title": "İçinde bir hayvan saklı",
+          "words": [
+            "ATLAS",
+            "ARIZA",
+            "KURTULUŞ",
+            "BALIKESİR"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 41,
+      "groups": [
+        {
+          "level": 1,
+          "title": "Kırtasiye",
+          "words": [
+            "ZIMBA",
+            "KLASÖR",
+            "BANT",
+            "ATAŞ"
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Vahşi hayvanlar",
+          "words": [
+            "ZÜRAFA",
+            "GERGEDAN",
+            "ZEBRA",
+            "PANDA"
+          ]
+        },
+        {
+          "level": 3,
+          "title": "Değerler",
+          "words": [
+            "SABIR",
+            "SAYGI",
+            "DÜRÜSTLÜK",
+            "CESARET"
+          ]
+        },
+        {
+          "level": 4,
+          "title": "Erkek isimleri",
+          "words": [
+            "KAPLAN",
+            "ASLAN",
+            "ATİLLA",
+            "ERDEM"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 42,
+      "groups": [
+        {
+          "level": 1,
+          "title": "Metaller",
+          "words": [
+            "BAKIR",
+            "DEMİR",
+            "ÇİNKO",
+            "KALAY"
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Zeytinyağlılar",
+          "words": [
+            "SARMA",
+            "PİLAKİ",
+            "ENGİNAR",
+            "BARBUNYA"
+          ]
+        },
+        {
+          "level": 3,
+          "title": "Yüzün parçaları",
+          "words": [
+            "ALIN",
+            "YANAK",
+            "ÇENE",
+            "BURUN"
+          ]
+        },
+        {
+          "level": 4,
+          "title": "___ kalemi",
+          "words": [
+            "KURŞUN",
+            "DOLMA",
+            "KAŞ",
+            "GÖZ"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 43,
+      "groups": [
+        {
+          "level": 1,
+          "title": "Pişirme kapları",
+          "words": [
+            "GÜVEÇ",
+            "CEZVE",
+            "SAHAN",
+            "TEPSİ"
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Sulak alanlar",
+          "words": [
+            "SAZLIK",
+            "DELTA",
+            "LAGÜN",
+            "HALİÇ"
+          ]
+        },
+        {
+          "level": 3,
+          "title": "Kâğıt oyunları",
+          "words": [
+            "PİŞTİ",
+            "PASTRA",
+            "BRİÇ",
+            "BATAK"
+          ]
+        },
+        {
+          "level": 4,
+          "title": "___ ağacı",
+          "words": [
+            "SOY",
+            "HAYAT",
+            "NOEL",
+            "DUT"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 44,
+      "groups": [
+        {
+          "level": 1,
+          "title": "Hastalıklar",
+          "words": [
+            "GRİP",
+            "NEZLE",
+            "KIZAMIK",
+            "SUÇİÇEĞİ"
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Kapıda bulunur",
+          "words": [
+            "ZİL",
+            "KİLİT",
+            "MENTEŞE",
+            "TOKMAK"
+          ]
+        },
+        {
+          "level": 3,
+          "title": "Hukuk terimleri",
+          "words": [
+            "YASA",
+            "DAVA",
+            "HAKİM",
+            "SAVCI"
+          ]
+        },
+        {
+          "level": 4,
+          "title": "Çalgılar",
+          "words": [
+            "BAĞLAMA",
+            "UD",
+            "NEY",
+            "KANUN"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 45,
+      "groups": [
+        {
+          "level": 1,
+          "title": "Diller",
+          "words": [
+            "ARAPÇA",
+            "RUSÇA",
+            "ALMANCA",
+            "FARSÇA"
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Ağızda bulunur",
+          "words": [
+            "DİŞ",
+            "DAMAK",
+            "DUDAK",
+            "DİŞETİ"
+          ]
+        },
+        {
+          "level": 3,
+          "title": "Boynuzlu hayvanlar",
+          "words": [
+            "GEYİK",
+            "ÖKÜZ",
+            "BUFALO",
+            "KOÇ"
+          ]
+        },
+        {
+          "level": 4,
+          "title": "___ peyniri",
+          "words": [
+            "EZİNE",
+            "KEÇİ",
+            "OTLU",
+            "DİL"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 46,
+      "groups": [
+        {
+          "level": 1,
+          "title": "Kumaşlar",
+          "words": [
+            "SATEN",
+            "KADİFE",
+            "ŞİFON",
+            "KETEN"
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Kraliyet",
+          "words": [
+            "PRENS",
+            "PRENSES",
+            "KRALİÇE",
+            "VELİAHT"
+          ]
+        },
+        {
+          "level": 3,
+          "title": "Mineraller",
+          "words": [
+            "KALSİYUM",
+            "MAGNEZYUM",
+            "ÇİNKO",
+            "POTASYUM"
+          ]
+        },
+        {
+          "level": 4,
+          "title": "___ yolu",
+          "words": [
+            "İPEK",
+            "DEMİR",
+            "BAHARAT",
+            "KRAL"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 47,
+      "groups": [
+        {
+          "level": 1,
+          "title": "Banyoda",
+          "words": [
+            "KÜVET",
+            "LAVABO",
+            "DUŞ",
+            "KLOZET"
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Terzide",
+          "words": [
+            "İĞNE",
+            "İPLİK",
+            "MAKAS",
+            "YÜKSÜK"
+          ]
+        },
+        {
+          "level": 3,
+          "title": "Sanat dalları",
+          "words": [
+            "RESİM",
+            "HEYKEL",
+            "SERAMİK",
+            "MİMARİ"
+          ]
+        },
+        {
+          "level": 4,
+          "title": "___ makinesi",
+          "words": [
+            "ÇAMAŞIR",
+            "BULAŞIK",
+            "DİKİŞ",
+            "FOTOĞRAF"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 48,
+      "groups": [
+        {
+          "level": 1,
+          "title": "Çiçekler",
+          "words": [
+            "ZAMBAK",
+            "FREZYA",
+            "MANOLYA",
+            "KAMELYA"
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Zehirli canlılar",
+          "words": [
+            "ÖRÜMCEK",
+            "ÇIYAN",
+            "DENİZANASI",
+            "ENGEREK"
+          ]
+        },
+        {
+          "level": 3,
+          "title": "Saatin parçaları",
+          "words": [
+            "AKREP",
+            "YELKOVAN",
+            "KADRAN",
+            "ZEMBEREK"
+          ]
+        },
+        {
+          "level": 4,
+          "title": "Kız isimleri",
+          "words": [
+            "LALE",
+            "NERGİS",
+            "ASLI",
+            "ECE"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 49,
+      "groups": [
+        {
+          "level": 1,
+          "title": "Sütlü tatlılar",
+          "words": [
+            "KAZANDİBİ",
+            "PROFİTEROL",
+            "MUHALLEBİ",
+            "TRİLEÇE"
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Sayılar",
+          "words": [
+            "YİRMİ",
+            "OTUZ",
+            "KIRK",
+            "SEKSEN"
+          ]
+        },
+        {
+          "level": 3,
+          "title": "Başta bulunur",
+          "words": [
+            "SAÇ",
+            "KULAK",
+            "ŞAKAK",
+            "ENSE"
+          ]
+        },
+        {
+          "level": 4,
+          "title": "Hem sayı hem başka bir kelime",
+          "words": [
+            "YÜZ",
+            "ALTI",
+            "BİN",
+            "YEDİ"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 50,
+      "groups": [
+        {
+          "level": 1,
+          "title": "Kış meyveleri",
+          "words": [
+            "PORTAKAL",
+            "MANDALİNA",
+            "NAR",
+            "KİVİ"
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Işık kaynakları",
+          "words": [
+            "LAMBA",
+            "MUM",
+            "AMPUL",
+            "MEŞALE"
+          ]
+        },
+        {
+          "level": 3,
+          "title": "Sahilde",
+          "words": [
+            "DALGA",
+            "KAYIK",
+            "MARTI",
+            "FENER"
+          ]
+        },
+        {
+          "level": 4,
+          "title": "Yapı malzemeleri",
+          "words": [
+            "TUĞLA",
+            "ÇİMENTO",
+            "BETON",
+            "KUM"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 51,
+      "groups": [
+        {
+          "level": 1,
+          "title": "Top sporları",
+          "words": [
+            "VOLEYBOL",
+            "BASKETBOL",
+            "TENİS",
+            "HENTBOL"
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Mobilyalar",
+          "words": [
+            "KANEPE",
+            "KOMODİN",
+            "BERJER",
+            "ŞİFONYER"
+          ]
+        },
+        {
+          "level": 3,
+          "title": "İstanbul'un simgeleri",
+          "words": [
+            "AYASOFYA",
+            "TOPKAPI",
+            "DOLMABAHÇE",
+            "YEREBATAN"
+          ]
+        },
+        {
+          "level": 4,
+          "title": "Osmanlı sarayında",
+          "words": [
+            "HAREM",
+            "DİVAN",
+            "ENDERUN",
+            "KUBBEALTI"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 52,
+      "groups": [
+        {
+          "level": 1,
+          "title": "Hamur malzemeleri",
+          "words": [
+            "UN",
+            "MAYA",
+            "NİŞASTA",
+            "İRMİK"
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Organlar",
+          "words": [
+            "KALP",
+            "KARACİĞER",
+            "DALAK",
+            "PANKREAS"
+          ]
+        },
+        {
+          "level": 3,
+          "title": "Bahçe aletleri",
+          "words": [
+            "TIRMIK",
+            "ÇAPA",
+            "HORTUM",
+            "BEL"
+          ]
+        },
+        {
+          "level": 4,
+          "title": "___ ağrısı",
+          "words": [
+            "BAŞ",
+            "DİŞ",
+            "MİDE",
+            "KULAK"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 53,
+      "groups": [
+        {
+          "level": 1,
+          "title": "Yazı araçları",
+          "words": [
+            "TEBEŞİR",
+            "MÜREKKEP",
+            "DAKTİLO",
+            "HOKKA"
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Gazetecilik",
+          "words": [
+            "MANŞET",
+            "MUHABİR",
+            "EDİTÖR",
+            "HABER"
+          ]
+        },
+        {
+          "level": 3,
+          "title": "Elde bulunur",
+          "words": [
+            "AVUÇ",
+            "BİLEK",
+            "BOĞUM",
+            "TIRNAK"
+          ]
+        },
+        {
+          "level": 4,
+          "title": "Noktalama işaretleri",
+          "words": [
+            "VİRGÜL",
+            "NOKTA",
+            "ÜNLEM",
+            "KESME"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 54,
+      "groups": [
+        {
+          "level": 1,
+          "title": "Meslekler",
+          "words": [
+            "BERBER",
+            "KASAP",
+            "MANAV",
+            "FIRINCI"
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Türkiye'nin ünlü yerleri",
+          "words": [
+            "PAMUKKALE",
+            "KAPADOKYA",
+            "EFES",
+            "NEMRUT"
+          ]
+        },
+        {
+          "level": 3,
+          "title": "Binanın bölümleri",
+          "words": [
+            "ÇATI",
+            "DUVAR",
+            "KOLON",
+            "BODRUM"
+          ]
+        },
+        {
+          "level": 4,
+          "title": "Fıkra karakterleri",
+          "words": [
+            "TEMEL",
+            "DURSUN",
+            "NASREDDİN",
+            "BEKTAŞİ"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 55,
+      "groups": [
+        {
+          "level": 1,
+          "title": "Kamp malzemeleri",
+          "words": [
+            "ÇADIR",
+            "MATARA",
+            "ÇAKI",
+            "KİBRİT"
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Sıcak içecekler",
+          "words": [
+            "SALEP",
+            "KAKAO",
+            "KAHVE",
+            "IHLAMUR"
+          ]
+        },
+        {
+          "level": 3,
+          "title": "Türk kahvesi",
+          "words": [
+            "KÖPÜK",
+            "TELVE",
+            "FİNCAN",
+            "LOKUM"
+          ]
+        },
+        {
+          "level": 4,
+          "title": "Akan sular",
+          "words": [
+            "DERE",
+            "NEHİR",
+            "ÇAĞLAYAN",
+            "ÇAY"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 56,
+      "groups": [
+        {
+          "level": 1,
+          "title": "Orman hayvanları",
+          "words": [
+            "AYI",
+            "KURT",
+            "TİLKİ",
+            "VAŞAK"
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Bitkinin bölümleri",
+          "words": [
+            "GÖVDE",
+            "YAPRAK",
+            "DAL",
+            "ÇİÇEK"
+          ]
+        },
+        {
+          "level": 3,
+          "title": "Matematik terimleri",
+          "words": [
+            "AÇI",
+            "KESİR",
+            "ÜS",
+            "KÖK"
+          ]
+        },
+        {
+          "level": 4,
+          "title": "___ böceği",
+          "words": [
+            "UĞUR",
+            "HAMAM",
+            "AĞUSTOS",
+            "ATEŞ"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 57,
+      "groups": [
+        {
+          "level": 1,
+          "title": "Yaz meyveleri",
+          "words": [
+            "KİRAZ",
+            "VİŞNE",
+            "KAYISI",
+            "DUT"
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Doğal oluşumlar",
+          "words": [
+            "MAĞARA",
+            "KANYON",
+            "ŞELALE",
+            "VADİ"
+          ]
+        },
+        {
+          "level": 3,
+          "title": "Metroda",
+          "words": [
+            "PERON",
+            "VAGON",
+            "RAY",
+            "TÜNEL"
+          ]
+        },
+        {
+          "level": 4,
+          "title": "Basketbol terimleri",
+          "words": [
+            "SMAÇ",
+            "RİBAUND",
+            "ASİST",
+            "TURNİKE"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 58,
+      "groups": [
+        {
+          "level": 1,
+          "title": "Bankacılık",
+          "words": [
+            "FAİZ",
+            "KREDİ",
+            "HAVALE",
+            "MEVDUAT"
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Okyanuslar",
+          "words": [
+            "PASİFİK",
+            "ATLANTİK",
+            "HİNT",
+            "ARKTİK"
+          ]
+        },
+        {
+          "level": 3,
+          "title": "Para birimleri",
+          "words": [
+            "DOLAR",
+            "AVRO",
+            "YEN",
+            "RUBLE"
+          ]
+        },
+        {
+          "level": 4,
+          "title": "Telli çalgılar",
+          "words": [
+            "ARP",
+            "GİTAR",
+            "MANDOLİN",
+            "LİRA"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 59,
+      "groups": [
+        {
+          "level": 1,
+          "title": "Kuaförde",
+          "words": [
+            "FÖN",
+            "BOYA",
+            "PERMA",
+            "MANİKÜR"
+          ]
+        },
+        {
+          "level": 2,
+          "title": "El sanatları",
+          "words": [
+            "KİLİM",
+            "ÇİNİ",
+            "EBRU",
+            "HAT"
+          ]
+        },
+        {
+          "level": 3,
+          "title": "Tarım ürünleri",
+          "words": [
+            "TÜTÜN",
+            "PANCAR",
+            "AYÇİÇEĞİ",
+            "HAŞHAŞ"
+          ]
+        },
+        {
+          "level": 4,
+          "title": "Kedi isimleri",
+          "words": [
+            "PAMUK",
+            "TEKİR",
+            "BONCUK",
+            "MİNNOŞ"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 60,
+      "groups": [
+        {
+          "level": 1,
+          "title": "Soğuk içecekler",
+          "words": [
+            "AYRAN",
+            "BOZA",
+            "ŞERBET",
+            "LİMONATA"
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Erkek isimleri",
+          "words": [
+            "SELİM",
+            "KEREM",
+            "BURAK",
+            "EMİR"
+          ]
+        },
+        {
+          "level": 3,
+          "title": "İller",
+          "words": [
+            "MARDİN",
+            "SİİRT",
+            "HATAY",
+            "KİLİS"
+          ]
+        },
+        {
+          "level": 4,
+          "title": "Kebaplar",
+          "words": [
+            "ADANA",
+            "URFA",
+            "İSKENDER",
+            "BEYTİ"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 61,
+      "groups": [
+        {
+          "level": 1,
+          "title": "Deniz araçları",
+          "words": [
+            "TEKNE",
+            "YAT",
+            "FERİBOT",
+            "MAVNA"
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Rüzgarlar",
+          "words": [
+            "LODOS",
+            "KARAYEL",
+            "İMBAT",
+            "KEŞİŞLEME"
+          ]
+        },
+        {
+          "level": 3,
+          "title": "Erkek isimleri",
+          "words": [
+            "OZAN",
+            "CEM",
+            "ARAS",
+            "POYRAZ"
+          ]
+        },
+        {
+          "level": 4,
+          "title": "Hem il hem başka bir anlam",
+          "words": [
+            "AYDIN",
+            "UŞAK",
+            "BATMAN",
+            "DÜZCE"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 62,
+      "groups": [
+        {
+          "level": 1,
+          "title": "Böcekler",
+          "words": [
+            "ÇEKİRGE",
+            "YUSUFÇUK",
+            "GÜVE",
+            "PİRE"
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Evlilik",
+          "words": [
+            "SÖZ",
+            "KINA",
+            "DÜĞÜN",
+            "BALAYI"
+          ]
+        },
+        {
+          "level": 3,
+          "title": "Ödüller",
+          "words": [
+            "MADALYA",
+            "PLAKET",
+            "NİŞAN",
+            "ŞİLT"
+          ]
+        },
+        {
+          "level": 4,
+          "title": "İskambil",
+          "words": [
+            "MAÇA",
+            "KARO",
+            "SİNEK",
+            "KUPA"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 63,
+      "groups": [
+        {
+          "level": 1,
+          "title": "Baklagiller",
+          "words": [
+            "NOHUT",
+            "FASULYE",
+            "BEZELYE",
+            "BÖRÜLCE"
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Uzuvlar",
+          "words": [
+            "KOL",
+            "BACAK",
+            "PARMAK",
+            "OMUZ"
+          ]
+        },
+        {
+          "level": 3,
+          "title": "Dört element",
+          "words": [
+            "ATEŞ",
+            "SU",
+            "TOPRAK",
+            "HAVA"
+          ]
+        },
+        {
+          "level": 4,
+          "title": "Fal çeşitleri",
+          "words": [
+            "KAHVE",
+            "TAROT",
+            "EL",
+            "BAKLA"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 64,
+      "groups": [
+        {
+          "level": 1,
+          "title": "Kümes hayvanları",
+          "words": [
+            "HİNDİ",
+            "ÖRDEK",
+            "HOROZ",
+            "TAVUK"
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Arazi türleri",
+          "words": [
+            "ÇAYIR",
+            "OVA",
+            "MERA",
+            "BOZKIR"
+          ]
+        },
+        {
+          "level": 3,
+          "title": "Zaman bildirir",
+          "words": [
+            "ERKEN",
+            "ŞİMDİ",
+            "DÜN",
+            "YARIN"
+          ]
+        },
+        {
+          "level": 4,
+          "title": "Hem emir hem başka bir kelime",
+          "words": [
+            "KAZ",
+            "KIR",
+            "AÇ",
+            "GEÇ"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 65,
+      "groups": [
+        {
+          "level": 1,
+          "title": "Kötü alışkanlıklar",
+          "words": [
+            "KUMAR",
+            "ALKOL",
+            "YALAN",
+            "TEMBELLİK"
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Ağaçtan elde edilir",
+          "words": [
+            "KERESTE",
+            "ODUN",
+            "KAĞIT",
+            "REÇİNE"
+          ]
+        },
+        {
+          "level": 3,
+          "title": "Giysi parçaları",
+          "words": [
+            "YAKA",
+            "PAÇA",
+            "DÜĞME",
+            "FERMUAR"
+          ]
+        },
+        {
+          "level": 4,
+          "title": "___ böreği",
+          "words": [
+            "SİGARA",
+            "KOL",
+            "SU",
+            "TALAŞ"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 66,
+      "groups": [
+        {
+          "level": 1,
+          "title": "Başa giyilir",
+          "words": [
+            "FES",
+            "KASKET",
+            "BERE",
+            "TÜLBENT"
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Hastalıklar",
+          "words": [
+            "NEZLE",
+            "KIZAMIK",
+            "BRONŞİT",
+            "ZATÜRRE"
+          ]
+        },
+        {
+          "level": 3,
+          "title": "Polisle ilgili",
+          "words": [
+            "KELEPÇE",
+            "DÜDÜK",
+            "ÜNİFORMA",
+            "DEVRİYE"
+          ]
+        },
+        {
+          "level": 4,
+          "title": "İçinde bir renk saklı",
+          "words": [
+            "SARIK",
+            "GRİP",
+            "KARAKOL",
+            "MORAL"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 67,
+      "groups": [
+        {
+          "level": 1,
+          "title": "Bursa'nın ilçeleri",
+          "words": [
+            "NİLÜFER",
+            "MUDANYA",
+            "GEMLİK",
+            "ORHANGAZİ"
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Duygusal sıfatlar",
+          "words": [
+            "DUYGUSAL",
+            "HASSAS",
+            "NAZİK",
+            "ALINGAN"
+          ]
+        },
+        {
+          "level": 3,
+          "title": "Doğada nem",
+          "words": [
+            "SİS",
+            "ÇİSE",
+            "KIRAĞI",
+            "BUĞU"
+          ]
+        },
+        {
+          "level": 4,
+          "title": "___ köftesi",
+          "words": [
+            "İNEGÖL",
+            "AKÇAABAT",
+            "İÇLİ",
+            "ÇİĞ"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 68,
+      "groups": [
+        {
+          "level": 1,
+          "title": "Aile",
+          "words": [
+            "BABA",
+            "KARDEŞ",
+            "TEYZE",
+            "AMCA"
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Kedigiller",
+          "words": [
+            "PARS",
+            "PUMA",
+            "JAGUAR",
+            "ÇİTA"
+          ]
+        },
+        {
+          "level": 3,
+          "title": "Uçan şeyler",
+          "words": [
+            "UÇURTMA",
+            "BALON",
+            "ZEPLİN",
+            "PLANÖR"
+          ]
+        },
+        {
+          "level": 4,
+          "title": "___ sütü",
+          "words": [
+            "ANNE",
+            "KUŞ",
+            "ASLAN",
+            "SOYA"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 69,
+      "groups": [
+        {
+          "level": 1,
+          "title": "Organlar",
+          "words": [
+            "AKCİĞER",
+            "BAĞIRSAK",
+            "MESANE",
+            "TİROİT"
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Uzunluk ölçüleri",
+          "words": [
+            "SANTİM",
+            "İNÇ",
+            "METRE",
+            "KARIŞ"
+          ]
+        },
+        {
+          "level": 3,
+          "title": "İnşaat terimleri",
+          "words": [
+            "İSKELE",
+            "KALIP",
+            "DONATI",
+            "TEMEL"
+          ]
+        },
+        {
+          "level": 4,
+          "title": "___ taşı",
+          "words": [
+            "MEZAR",
+            "KİLOMETRE",
+            "BÖBREK",
+            "YAPI"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 70,
+      "groups": [
+        {
+          "level": 1,
+          "title": "Nefesle ilgili",
+          "words": [
+            "NEFES",
+            "ÖKSÜRÜK",
+            "HIÇKIRIK",
+            "ESNEME"
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Eczanede",
+          "words": [
+            "İLAÇ",
+            "ŞURUP",
+            "MERHEM",
+            "KAPSÜL"
+          ]
+        },
+        {
+          "level": 3,
+          "title": "Yoksul anlamında",
+          "words": [
+            "YOKSUL",
+            "MUHTAÇ",
+            "ÇULSUZ",
+            "GARİBAN"
+          ]
+        },
+        {
+          "level": 4,
+          "title": "Bir nota ile başlar",
+          "words": [
+            "SOLUK",
+            "REÇETE",
+            "FAKİR",
+            "MİMAR"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 71,
+      "groups": [
+        {
+          "level": 1,
+          "title": "Kafede",
+          "words": [
+            "MENÜ",
+            "GARSON",
+            "HESAP",
+            "BAHŞİŞ"
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Kır çiçekleri",
+          "words": [
+            "KARDELEN",
+            "SÜSEN",
+            "LAVANTA",
+            "MİMOZA"
+          ]
+        },
+        {
+          "level": 3,
+          "title": "Küçük memeliler",
+          "words": [
+            "SANSAR",
+            "KOKARCA",
+            "KÖSTEBEK",
+            "GELİNCİK"
+          ]
+        },
+        {
+          "level": 4,
+          "title": "Kız isimleri",
+          "words": [
+            "SEZEN",
+            "ÖZGE",
+            "BURCU",
+            "ÇİĞDEM"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 72,
+      "groups": [
+        {
+          "level": 1,
+          "title": "Fırında pişer",
+          "words": [
+            "EKMEK",
+            "KEK",
+            "KURABİYE",
+            "PASTA"
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Kıyı şekilleri",
+          "words": [
+            "KÖRFEZ",
+            "KOY",
+            "YARIMADA",
+            "ADA"
+          ]
+        },
+        {
+          "level": 3,
+          "title": "Giysiler",
+          "words": [
+            "BLUZ",
+            "YELEK",
+            "PANTOLON",
+            "ŞORT"
+          ]
+        },
+        {
+          "level": 4,
+          "title": "Hem vücutta hem coğrafyada",
+          "words": [
+            "BOĞAZ",
+            "BURUN",
+            "AĞIZ",
+            "ETEK"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 73,
+      "groups": [
+        {
+          "level": 1,
+          "title": "Vurmalı çalgılar",
+          "words": [
+            "DEF",
+            "BENDİR",
+            "DARBUKA",
+            "KUDÜM"
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Lezzet ve doku",
+          "words": [
+            "GEVREK",
+            "YUMUŞAK",
+            "SULU",
+            "SERT"
+          ]
+        },
+        {
+          "level": 3,
+          "title": "Hayvan sesleri",
+          "words": [
+            "KÜKREME",
+            "KİŞNEME",
+            "MELEME",
+            "BÖĞÜRME"
+          ]
+        },
+        {
+          "level": 4,
+          "title": "Ses yansımalı kelimeler",
+          "words": [
+            "TIKIR",
+            "ŞIRIL",
+            "PATIR",
+            "ÇITIR"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 74,
+      "groups": [
+        {
+          "level": 1,
+          "title": "Haftanın günleri",
+          "words": [
+            "PERŞEMBE",
+            "ÇARŞAMBA",
+            "CUMARTESİ",
+            "SALI"
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Doğu illeri",
+          "words": [
+            "BİTLİS",
+            "HAKKARİ",
+            "ERZURUM",
+            "MUŞ"
+          ]
+        },
+        {
+          "level": 3,
+          "title": "Yerleşim yerleri",
+          "words": [
+            "KASABA",
+            "KENT",
+            "MAHALLE",
+            "BELDE"
+          ]
+        },
+        {
+          "level": 4,
+          "title": "___ kahvaltısı",
+          "words": [
+            "VAN",
+            "KÖY",
+            "SERPME",
+            "PAZAR"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 75,
+      "groups": [
+        {
+          "level": 1,
+          "title": "Gezegenler",
+          "words": [
+            "MERKÜR",
+            "NEPTÜN",
+            "URANÜS",
+            "DÜNYA"
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Postada",
+          "words": [
+            "ZARF",
+            "KARGO",
+            "KOLİ",
+            "POSTACI"
+          ]
+        },
+        {
+          "level": 3,
+          "title": "Biyoloji",
+          "words": [
+            "ÇEKİRDEK",
+            "KROMOZOM",
+            "GEN",
+            "ENZİM"
+          ]
+        },
+        {
+          "level": 4,
+          "title": "Tavla terimleri",
+          "words": [
+            "ZAR",
+            "PUL",
+            "MARS",
+            "ŞEŞBEŞ"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 76,
+      "groups": [
+        {
+          "level": 1,
+          "title": "Spor salonunda",
+          "words": [
+            "DAMBIL",
+            "HALTER",
+            "MİNDER",
+            "İP"
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Sokak lezzetleri",
+          "words": [
+            "TOST",
+            "DÜRÜM",
+            "MİDYE",
+            "KOKOREÇ"
+          ]
+        },
+        {
+          "level": 3,
+          "title": "Kuşlar",
+          "words": [
+            "BÜLBÜL",
+            "İSPİNOZ",
+            "LEYLEK",
+            "KUMRU"
+          ]
+        },
+        {
+          "level": 4,
+          "title": "GÜL ile başlar",
+          "words": [
+            "GÜLLAÇ",
+            "GÜLLE",
+            "GÜLHANE",
+            "GÜLÜMSEME"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 77,
+      "groups": [
+        {
+          "level": 1,
+          "title": "Ofiste",
+          "words": [
+            "DOSYA",
+            "MESAİ",
+            "TOPLANTI",
+            "SEKRETER"
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Sınav türleri",
+          "words": [
+            "YAZILI",
+            "SÖZLÜ",
+            "TEST",
+            "MÜLAKAT"
+          ]
+        },
+        {
+          "level": 3,
+          "title": "Ev türleri",
+          "words": [
+            "VİLLA",
+            "YALI",
+            "KÖŞK",
+            "DUBLEKS"
+          ]
+        },
+        {
+          "level": 4,
+          "title": "Ünlü meydanlar",
+          "words": [
+            "TAKSİM",
+            "BEYAZIT",
+            "KIZILAY",
+            "KONAK"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 78,
+      "groups": [
+        {
+          "level": 1,
+          "title": "Pilavlık",
+          "words": [
+            "BULGUR",
+            "ŞEHRİYE",
+            "KUSKUS",
+            "FİRİK"
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Taş türleri",
+          "words": [
+            "MERMER",
+            "GRANİT",
+            "BAZALT",
+            "KUVARS"
+          ]
+        },
+        {
+          "level": 3,
+          "title": "Metaller ve alaşımlar",
+          "words": [
+            "TUNÇ",
+            "PİRİNÇ",
+            "ALÜMİNYUM",
+            "PLATİN"
+          ]
+        },
+        {
+          "level": 4,
+          "title": "Yaygın soyadları",
+          "words": [
+            "YILMAZ",
+            "KAYA",
+            "ÇELİK",
+            "ÖZTÜRK"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 79,
+      "groups": [
+        {
+          "level": 1,
+          "title": "Arabada",
+          "words": [
+            "SİLECEK",
+            "KORNA",
+            "BAGAJ",
+            "KLİMA"
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Alerji yapabilir",
+          "words": [
+            "TOZ",
+            "AKAR",
+            "KÜF",
+            "YUMURTA"
+          ]
+        },
+        {
+          "level": 3,
+          "title": "Arıdan elde edilir",
+          "words": [
+            "POLEN",
+            "PROPOLİS",
+            "BALMUMU",
+            "BAL"
+          ]
+        },
+        {
+          "level": 4,
+          "title": "Makyaj",
+          "words": [
+            "RUJ",
+            "ALLIK",
+            "RİMEL",
+            "FAR"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 80,
+      "groups": [
+        {
+          "level": 1,
+          "title": "Denizde yaşar",
+          "words": [
+            "FOK",
+            "MORS",
+            "ORKA",
+            "VATOZ"
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Kış sebzeleri",
+          "words": [
+            "KEREVİZ",
+            "KARNABAHAR",
+            "ISPANAK",
+            "PIRASA"
+          ]
+        },
+        {
+          "level": 3,
+          "title": "Sürülür",
+          "words": [
+            "KREM",
+            "MACUN",
+            "LOSYON",
+            "JEL"
+          ]
+        },
+        {
+          "level": 4,
+          "title": "BAL ile başlar",
+          "words": [
+            "BALINA",
+            "BALKABAĞI",
+            "BALIKÇIL",
+            "BALDIRAN"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 81,
+      "groups": [
+        {
+          "level": 1,
+          "title": "Uykuyla ilgili",
+          "words": [
+            "YASTIK",
+            "YORGAN",
+            "NİNNİ",
+            "HORLAMA"
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Geleneksel mutfak",
+          "words": [
+            "OKLAVA",
+            "SAC",
+            "TANDIR",
+            "MANGAL"
+          ]
+        },
+        {
+          "level": 3,
+          "title": "Akıl oyunları",
+          "words": [
+            "SUDOKU",
+            "MANGALA",
+            "BİLMECE",
+            "YAPBOZ"
+          ]
+        },
+        {
+          "level": 4,
+          "title": "İçinde bir ülke saklı",
+          "words": [
+            "PERUK",
+            "MALİYE",
+            "ÇİNİ",
+            "ROMAN"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 82,
+      "groups": [
+        {
+          "level": 1,
+          "title": "Mutlu anlamında",
+          "words": [
+            "NEŞELİ",
+            "MEMNUN",
+            "KEYİFLİ",
+            "HUZURLU"
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Üzgün anlamında",
+          "words": [
+            "HÜZÜNLÜ",
+            "KEDERLİ",
+            "MAHZUN",
+            "KIRGIN"
+          ]
+        },
+        {
+          "level": 3,
+          "title": "Kızgın anlamında",
+          "words": [
+            "ÖFKELİ",
+            "SİNİRLİ",
+            "HİDDETLİ",
+            "ASABİ"
+          ]
+        },
+        {
+          "level": 4,
+          "title": "İsim olarak da kullanılır",
+          "words": [
+            "SEVİNÇ",
+            "NEŞE",
+            "UMUT",
+            "ÖZLEM"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 83,
+      "groups": [
+        {
+          "level": 1,
+          "title": "Stadyumda",
+          "words": [
+            "TRİBÜN",
+            "SAHA",
+            "BİLET",
+            "HAKEM"
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Olimpiyat sporları",
+          "words": [
+            "ESKRİM",
+            "JİMNASTİK",
+            "TRİATLON",
+            "PENTATLON"
+          ]
+        },
+        {
+          "level": 3,
+          "title": "Ata sporları",
+          "words": [
+            "CİRİT",
+            "GÜREŞ",
+            "OKÇULUK",
+            "KUŞÇULUK"
+          ]
+        },
+        {
+          "level": 4,
+          "title": "___ topu",
+          "words": [
+            "KAR",
+            "ATEŞ",
+            "PİNPON",
+            "GOLF"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 84,
+      "groups": [
+        {
+          "level": 1,
+          "title": "Hamamda",
+          "words": [
+            "KESE",
+            "KURNA",
+            "PEŞTEMAL",
+            "NALIN"
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Kuşlar",
+          "words": [
+            "AKBABA",
+            "SAKSAĞAN",
+            "İBİBİK",
+            "PELİKAN"
+          ]
+        },
+        {
+          "level": 3,
+          "title": "Ankara'nın ilçeleri",
+          "words": [
+            "ÇANKAYA",
+            "MAMAK",
+            "POLATLI",
+            "SİNCAN"
+          ]
+        },
+        {
+          "level": 4,
+          "title": "İstanbul'un ilçeleri",
+          "words": [
+            "BEYKOZ",
+            "SARIYER",
+            "ŞİLE",
+            "KARTAL"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 85,
+      "groups": [
+        {
+          "level": 1,
+          "title": "Tohumlar",
+          "words": [
+            "SUSAM",
+            "ÇÖREKOTU",
+            "HAŞHAŞ",
+            "HARDAL"
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Renk tonları",
+          "words": [
+            "BORDO",
+            "BEJ",
+            "FÜME",
+            "LİLA"
+          ]
+        },
+        {
+          "level": 3,
+          "title": "Değerli taşlar",
+          "words": [
+            "ZÜMRÜT",
+            "YAKUT",
+            "SAFİR",
+            "TURKUAZ"
+          ]
+        },
+        {
+          "level": 4,
+          "title": "Eski Yunan düşünürleri",
+          "words": [
+            "EFLATUN",
+            "SOKRAT",
+            "ARİSTO",
+            "DİYOJEN"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 86,
+      "groups": [
+        {
+          "level": 1,
+          "title": "Mutfakta bulunur",
+          "words": [
+            "ASPİRATÖR",
+            "TEZGAH",
+            "EVYE",
+            "KİLER"
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Erkek isimleri",
+          "words": [
+            "HALİL",
+            "RECEP",
+            "CEMAL",
+            "İLYAS"
+          ]
+        },
+        {
+          "level": 3,
+          "title": "Tarım işleri",
+          "words": [
+            "HASAT",
+            "SULAMA",
+            "BUDAMA",
+            "GÜBRELEME"
+          ]
+        },
+        {
+          "level": 4,
+          "title": "Hem ay adı hem başka bir kelime",
+          "words": [
+            "OCAK",
+            "KASIM",
+            "ARALIK",
+            "EKİM"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 87,
+      "groups": [
+        {
+          "level": 1,
+          "title": "Sebzeler",
+          "words": [
+            "BROKOLİ",
+            "ROKA",
+            "ENGİNAR",
+            "TURP"
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Çay yanında",
+          "words": [
+            "ACIBADEM",
+            "ÇÖREK",
+            "GALETA",
+            "KRAKER"
+          ]
+        },
+        {
+          "level": 3,
+          "title": "Yastık dolgusu",
+          "words": [
+            "PAMUK",
+            "ELYAF",
+            "YÜN",
+            "SÜNGER"
+          ]
+        },
+        {
+          "level": 4,
+          "title": "KUŞ ile başlar",
+          "words": [
+            "KUŞKONMAZ",
+            "KUŞTÜYÜ",
+            "KUŞLOKUMU",
+            "KUŞBAKIŞI"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 88,
+      "groups": [
+        {
+          "level": 1,
+          "title": "Kışlık hazırlık",
+          "words": [
+            "TURŞU",
+            "SALÇA",
+            "ERİŞTE",
+            "KONSERVE"
+          ]
+        },
+        {
+          "level": 2,
+          "title": "İnternet",
+          "words": [
+            "ŞİFRE",
+            "SUNUCU",
+            "TARAYICI",
+            "AĞ"
+          ]
+        },
+        {
+          "level": 3,
+          "title": "Balıkçılık",
+          "words": [
+            "OLTA",
+            "YEM",
+            "MAKARA",
+            "ZOKA"
+          ]
+        },
+        {
+          "level": 4,
+          "title": "Dikişte kullanılır",
+          "words": [
+            "ÇITÇIT",
+            "AGRAF",
+            "KOPÇA",
+            "LASTİK"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 89,
+      "groups": [
+        {
+          "level": 1,
+          "title": "Sokak oyunları",
+          "words": [
+            "SEKSEK",
+            "SAKLAMBAÇ",
+            "YAKARTOP",
+            "BEŞTAŞ"
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Oyuncaklar",
+          "words": [
+            "MİSKET",
+            "YOYO",
+            "ÇINGIRAK",
+            "UÇURTMA"
+          ]
+        },
+        {
+          "level": 3,
+          "title": "Moda dünyası",
+          "words": [
+            "DEFİLE",
+            "MANKEN",
+            "PODYUM",
+            "KOLEKSİYON"
+          ]
+        },
+        {
+          "level": 4,
+          "title": "Boğaz semtleri",
+          "words": [
+            "ORTAKÖY",
+            "EMİRGAN",
+            "KANDİLLİ",
+            "BEBEK"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 90,
+      "groups": [
+        {
+          "level": 1,
+          "title": "İller",
+          "words": [
+            "BOLU",
+            "ÇORUM",
+            "NİĞDE",
+            "SİVAS"
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Erkek isimleri",
+          "words": [
+            "KEMAL",
+            "ORHAN",
+            "VEDAT",
+            "SİNAN"
+          ]
+        },
+        {
+          "level": 3,
+          "title": "Nehirler",
+          "words": [
+            "KIZILIRMAK",
+            "SAKARYA",
+            "FİLYOS",
+            "DALAMAN"
+          ]
+        },
+        {
+          "level": 4,
+          "title": "Hem nehir hem erkek ismi",
+          "words": [
+            "MURAT",
+            "ARAS",
+            "SEYHAN",
+            "CEYHAN"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 91,
+      "groups": [
+        {
+          "level": 1,
+          "title": "Gemide",
+          "words": [
+            "DÜMEN",
+            "GÜVERTE",
+            "KAMARA",
+            "PERVANE"
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Avlanma",
+          "words": [
+            "TÜFEK",
+            "TUZAK",
+            "PUSU",
+            "ZAĞAR"
+          ]
+        },
+        {
+          "level": 3,
+          "title": "Yaylada",
+          "words": [
+            "AĞIL",
+            "SÜRÜ",
+            "KAVAL",
+            "KANGAL"
+          ]
+        },
+        {
+          "level": 4,
+          "title": "Hem meslek hem soyadı",
+          "words": [
+            "DEMİRCİ",
+            "ÇOBAN",
+            "AVCI",
+            "KAPTAN"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 92,
+      "groups": [
+        {
+          "level": 1,
+          "title": "Renkler",
+          "words": [
+            "PEMBE",
+            "GRİ",
+            "TURUNCU",
+            "HAKİ"
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Çiçekler",
+          "words": [
+            "KASIMPATI",
+            "SARDUNYA",
+            "BEGONYA",
+            "ŞEBBOY"
+          ]
+        },
+        {
+          "level": 3,
+          "title": "Bahçede",
+          "words": [
+            "ÇİT",
+            "KAMELYA",
+            "HAVUZ",
+            "SALINCAK"
+          ]
+        },
+        {
+          "level": 4,
+          "title": "Hem çiçek hem renk",
+          "words": [
+            "LEYLAK",
+            "FUŞYA",
+            "LAVANTA",
+            "MENEKŞE"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 93,
+      "groups": [
+        {
+          "level": 1,
+          "title": "Tatlandırıcılar",
+          "words": [
+            "BAL",
+            "PEKMEZ",
+            "MELAS",
+            "STEVİA"
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Tahlilde bakılır",
+          "words": [
+            "KOLESTEROL",
+            "VİTAMİN",
+            "DEMİR",
+            "HORMON"
+          ]
+        },
+        {
+          "level": 3,
+          "title": "Ölçülür",
+          "words": [
+            "TANSİYON",
+            "NABIZ",
+            "ATEŞ",
+            "BOY"
+          ]
+        },
+        {
+          "level": 4,
+          "title": "___ Bayramı",
+          "words": [
+            "ŞEKER",
+            "KURBAN",
+            "ÇOCUK",
+            "ZAFER"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 94,
+      "groups": [
+        {
+          "level": 1,
+          "title": "Büyük anlamında",
+          "words": [
+            "İRİ",
+            "KOCAMAN",
+            "HEYBETLİ",
+            "DEVASA"
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Küçük anlamında",
+          "words": [
+            "UFAK",
+            "MİNİK",
+            "MİNİMİNİ",
+            "UFACIK"
+          ]
+        },
+        {
+          "level": 3,
+          "title": "Hızlı anlamında",
+          "words": [
+            "ÇABUK",
+            "SERİ",
+            "SÜRATLİ",
+            "TEZ"
+          ]
+        },
+        {
+          "level": 4,
+          "title": "Üniversitede",
+          "words": [
+            "DEKAN",
+            "REKTÖR",
+            "KAMPÜS",
+            "YURT"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 95,
+      "groups": [
+        {
+          "level": 1,
+          "title": "Resim boyaları",
+          "words": [
+            "SULUBOYA",
+            "PASTEL",
+            "GUAJ",
+            "AKRİLİK"
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Çamaşırda",
+          "words": [
+            "MANDAL",
+            "ÇİVİT",
+            "SEPET",
+            "KOVA"
+          ]
+        },
+        {
+          "level": 3,
+          "title": "Hayvanın vücudu",
+          "words": [
+            "PATİ",
+            "YELE",
+            "PENÇE",
+            "TOYNAK"
+          ]
+        },
+        {
+          "level": 4,
+          "title": "___ kemiği",
+          "words": [
+            "KÜREK",
+            "LEĞEN",
+            "ELMACIK",
+            "KUYRUK"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 96,
+      "groups": [
+        {
+          "level": 1,
+          "title": "Uzayda",
+          "words": [
+            "ASTEROİT",
+            "GÖKTAŞI",
+            "NEBULA",
+            "GALAKSİ"
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Tarif ölçüleri",
+          "words": [
+            "TUTAM",
+            "ÇİMDİK",
+            "DAMLA",
+            "KASE"
+          ]
+        },
+        {
+          "level": 3,
+          "title": "Kız isimleri",
+          "words": [
+            "İREM",
+            "SİNEM",
+            "EBRU",
+            "NAZ"
+          ]
+        },
+        {
+          "level": 4,
+          "title": "Hem gök cismi hem isim",
+          "words": [
+            "YILDIZ",
+            "GÜNEŞ",
+            "DÜNYA",
+            "ÜLKER"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 97,
+      "groups": [
+        {
+          "level": 1,
+          "title": "Hava raporunda",
+          "words": [
+            "NEM",
+            "BASINÇ",
+            "SICAKLIK",
+            "YAĞIŞ"
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Müzik terimleri",
+          "words": [
+            "TEMPO",
+            "ARMONİ",
+            "NAKARAT",
+            "SOLO"
+          ]
+        },
+        {
+          "level": 3,
+          "title": "Mekanlar",
+          "words": [
+            "KAFE",
+            "PASTANE",
+            "LOKANTA",
+            "KANTİN"
+          ]
+        },
+        {
+          "level": 4,
+          "title": "Hem ölçü birimi hem başka bir şey",
+          "words": [
+            "TON",
+            "BAR",
+            "MİL",
+            "DERECE"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 98,
+      "groups": [
+        {
+          "level": 1,
+          "title": "Fast food",
+          "words": [
+            "PİZZA",
+            "NUGGET",
+            "SOSİSLİ",
+            "HAMBURGER"
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Almanya'nın şehirleri",
+          "words": [
+            "MÜNİH",
+            "BREMEN",
+            "DRESDEN",
+            "HAMBURG"
+          ]
+        },
+        {
+          "level": 3,
+          "title": "Parfüm notaları",
+          "words": [
+            "MİSK",
+            "AMBER",
+            "SANDAL",
+            "PAÇULİ"
+          ]
+        },
+        {
+          "level": 4,
+          "title": "Bayramda",
+          "words": [
+            "HARÇLIK",
+            "ZİYARET",
+            "AREFE",
+            "KOLONYA"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 99,
+      "groups": [
+        {
+          "level": 1,
+          "title": "Kıtalar",
+          "words": [
+            "AVRUPA",
+            "AFRİKA",
+            "AMERİKA",
+            "ANTARKTİKA"
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Göz doktorunda",
+          "words": [
+            "LENS",
+            "GÖZLÜK",
+            "MİYOP",
+            "ASTİGMAT"
+          ]
+        },
+        {
+          "level": 3,
+          "title": "Göz renkleri",
+          "words": [
+            "MAVİ",
+            "YEŞİL",
+            "KAHVERENGİ",
+            "GRİ"
+          ]
+        },
+        {
+          "level": 4,
+          "title": "Kız isimleri",
+          "words": [
+            "ELA",
+            "ASYA",
+            "MELİS",
+            "DİLARA"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 100,
+      "groups": [
+        {
+          "level": 1,
+          "title": "Böceğin vücudu",
+          "words": [
+            "KANAT",
+            "KABUK",
+            "İĞNE",
+            "BACAK"
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Su yolları",
+          "words": [
+            "ARK",
+            "DERE",
+            "IRMAK",
+            "ÇAY"
+          ]
+        },
+        {
+          "level": 3,
+          "title": "Emir anlamında",
+          "words": [
+            "TALİMAT",
+            "BUYRUK",
+            "DİREKTİF",
+            "FERMAN"
+          ]
+        },
+        {
+          "level": 4,
+          "title": "Televizyonla ilgili",
+          "words": [
+            "KUMANDA",
+            "ANTEN",
+            "KANAL",
+            "DİZİ"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 101,
+      "groups": [
+        {
+          "level": 1,
+          "title": "Gerçek anlamında",
+          "words": [
+            "GERÇEK",
+            "HAKİKİ",
+            "SAHİH",
+            "OTANTİK"
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Bölüşülen parça",
+          "words": [
+            "HİSSE",
+            "KISIM",
+            "PARÇA",
+            "DİLİM"
+          ]
+        },
+        {
+          "level": 3,
+          "title": "Yığın anlamında",
+          "words": [
+            "YIĞIN",
+            "ÖBEK",
+            "TOPLULUK",
+            "GRUP"
+          ]
+        },
+        {
+          "level": 4,
+          "title": "Hem matematik terimi hem başka anlam",
+          "words": [
+            "PAY",
+            "KÜME",
+            "DOĞRU",
+            "ÇARPAN"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 102,
+      "groups": [
+        {
+          "level": 1,
+          "title": "Evcil hayvanlar",
+          "words": [
+            "KÖPEK",
+            "TAVŞAN",
+            "KAPLUMBAĞA",
+            "KANARYA"
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Etikette yazar",
+          "words": [
+            "FİYAT",
+            "MARKA",
+            "BARKOD",
+            "İÇERİK"
+          ]
+        },
+        {
+          "level": 3,
+          "title": "Sınıfta",
+          "words": [
+            "SIRA",
+            "ÖĞRENCİ",
+            "KARNE",
+            "TENEFFÜS"
+          ]
+        },
+        {
+          "level": 4,
+          "title": "___ dili",
+          "words": [
+            "İŞARET",
+            "BEDEN",
+            "KUŞ",
+            "KEDİ"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 103,
+      "groups": [
+        {
+          "level": 1,
+          "title": "Yağmurda",
+          "words": [
+            "ÇİZME",
+            "YAĞMURLUK",
+            "BOT",
+            "GALOŞ"
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Su fışkırtır",
+          "words": [
+            "POMPA",
+            "FISKİYE",
+            "ŞADIRVAN",
+            "ÇEŞME"
+          ]
+        },
+        {
+          "level": 3,
+          "title": "Yuvarlak şeyler",
+          "words": [
+            "ÇEMBER",
+            "KÜRE",
+            "DİSK",
+            "TOP"
+          ]
+        },
+        {
+          "level": 4,
+          "title": "Hem tatlı adı hem başka bir kelime",
+          "words": [
+            "LOKMA",
+            "TULUMBA",
+            "BURMA",
+            "HALKA"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 104,
+      "groups": [
+        {
+          "level": 1,
+          "title": "Kahvehanede",
+          "words": [
+            "TAVLA",
+            "OKEY",
+            "DOMİNO",
+            "BİLARDO"
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Değerli taşlar",
+          "words": [
+            "PIRLANTA",
+            "OPAL",
+            "KEHRİBAR",
+            "MERCAN"
+          ]
+        },
+        {
+          "level": 3,
+          "title": "Balıkesir'in ilçeleri",
+          "words": [
+            "BANDIRMA",
+            "EDREMİT",
+            "GÖNEN",
+            "ERDEK"
+          ]
+        },
+        {
+          "level": 4,
+          "title": "İçinde bir meyve saklı",
+          "words": [
+            "ELMAS",
+            "MUZIR",
+            "NARGİLE",
+            "AYVALIK"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 105,
+      "groups": [
+        {
+          "level": 1,
+          "title": "Gece kıyafetleri",
+          "words": [
+            "PİJAMA",
+            "TERLİK",
+            "GECELİK",
+            "SABAHLIK"
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Altınla ilgili",
+          "words": [
+            "KÜLÇE",
+            "AYAR",
+            "KARAT",
+            "ÇEYREK"
+          ]
+        },
+        {
+          "level": 3,
+          "title": "Kırmızı tonları",
+          "words": [
+            "AL",
+            "BORDO",
+            "KİREMİT",
+            "YAKUT"
+          ]
+        },
+        {
+          "level": 4,
+          "title": "Hastalıklar",
+          "words": [
+            "SARILIK",
+            "KIZIL",
+            "KABAKULAK",
+            "VEREM"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 106,
+      "groups": [
+        {
+          "level": 1,
+          "title": "Seyahatte",
+          "words": [
+            "VALİZ",
+            "PASAPORT",
+            "OTEL",
+            "TUR"
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Telefonda",
+          "words": [
+            "ARAMA",
+            "MESAJ",
+            "ŞARJ",
+            "REHBER"
+          ]
+        },
+        {
+          "level": 3,
+          "title": "Sınavlar",
+          "words": [
+            "FİNAL",
+            "BÜTÜNLEME",
+            "MAZERET",
+            "VİZE"
+          ]
+        },
+        {
+          "level": 4,
+          "title": "TUR ile başlar",
+          "words": [
+            "TURNA",
+            "TURŞU",
+            "TURUNCU",
+            "TURNUVA"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 107,
+      "groups": [
+        {
+          "level": 1,
+          "title": "Savunma araçları",
+          "words": [
+            "ZIRH",
+            "MİĞFER",
+            "SİPER",
+            "KASK"
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Takı yapımında",
+          "words": [
+            "BONCUK",
+            "PLATİN",
+            "ZİRKON",
+            "KRİSTAL"
+          ]
+        },
+        {
+          "level": 3,
+          "title": "Kedi türleri",
+          "words": [
+            "SİYAM",
+            "İRAN",
+            "SARMAN",
+            "SFENKS"
+          ]
+        },
+        {
+          "level": 4,
+          "title": "Hem balık hem başka bir şey",
+          "words": [
+            "KALKAN",
+            "KILIÇ",
+            "MERCAN",
+            "TEKİR"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 108,
+      "groups": [
+        {
+          "level": 1,
+          "title": "Ormanda",
+          "words": [
+            "MANTAR",
+            "KOZALAK",
+            "ÇALILIK",
+            "PATİKA"
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Ağaçlar",
+          "words": [
+            "KESTANE",
+            "SEDİR",
+            "ÇAM",
+            "LADİN"
+          ]
+        },
+        {
+          "level": 3,
+          "title": "Kız isimleri",
+          "words": [
+            "BELİZ",
+            "ŞULE",
+            "HANDE",
+            "ELİF"
+          ]
+        },
+        {
+          "level": 4,
+          "title": "Hem ağaç hem isim",
+          "words": [
+            "ÇINAR",
+            "SELVİ",
+            "DEFNE",
+            "ARDIÇ"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 109,
+      "groups": [
+        {
+          "level": 1,
+          "title": "Kapıda yazar",
+          "words": [
+            "İT",
+            "AÇIK",
+            "KAPALI",
+            "GİRİŞ"
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Markette",
+          "words": [
+            "REYON",
+            "POŞET",
+            "İNDİRİM",
+            "ETİKET"
+          ]
+        },
+        {
+          "level": 3,
+          "title": "Sorun anlamında",
+          "words": [
+            "HASAR",
+            "ARIZA",
+            "SORUN",
+            "KUSUR"
+          ]
+        },
+        {
+          "level": 4,
+          "title": "Hem parayla ilgili hem başka anlam",
+          "words": [
+            "BOZUKLUK",
+            "KUR",
+            "ÇEK",
+            "KASA"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 110,
+      "groups": [
+        {
+          "level": 1,
+          "title": "Sinemada",
+          "words": [
+            "FİLM",
+            "FRAGMAN",
+            "KOLTUK",
+            "GİŞE"
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Yüzmede",
+          "words": [
+            "PALET",
+            "BONE",
+            "ŞNORKEL",
+            "GÖZLÜK"
+          ]
+        },
+        {
+          "level": 3,
+          "title": "Tartı aletleri",
+          "words": [
+            "TERAZİ",
+            "KANTAR",
+            "BASKÜL",
+            "KEFE"
+          ]
+        },
+        {
+          "level": 4,
+          "title": "Eski ölçü birimleri",
+          "words": [
+            "ARŞIN",
+            "OKKA",
+            "DİRHEM",
+            "KULAÇ"
+          ]
+        }
+      ]
+    }
+  ]
+}
