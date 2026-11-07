@@ -1,5 +1,5 @@
 {
- "version": 9,
+ "version": 10,
  "puzzles": [
   {
    "id": 1,
@@ -1883,10 +1883,10 @@
      "level": 4,
      "title": "___ kalemi",
      "words": [
-      "KURŞUN",
-      "DOLMA",
       "KAŞ",
-      "GÖZ"
+      "GÖZ",
+      "DUDAK",
+      "BÜTÇE"
      ]
     }
    ]
@@ -6374,7 +6374,7 @@
      "title": "___ bilgisi",
      "words": [
       "FEN",
-      "GENEL",
+      "TARİH",
       "DİL",
       "HAYAT"
      ]
@@ -7185,7 +7185,7 @@
      "words": [
       "TER",
       "DİL",
-      "İÇ",
+      "KURŞUN",
       "YAPRAK"
      ]
     },
