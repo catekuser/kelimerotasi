@@ -1,5 +1,5 @@
 {
- "version": 10,
+ "version": 11,
  "puzzles": [
   {
    "id": 1,
@@ -175,7 +175,7 @@
      "words": [
       "DERYA",
       "IRMAK",
-      "PINAR",
+      "ÇAĞLA",
       "MELTEM"
      ]
     }
@@ -220,7 +220,7 @@
      "words": [
       "GÖZ",
       "TUZ",
-      "KİTAP",
+      "ŞEKER",
       "KULAK"
      ]
     }
@@ -649,7 +649,7 @@
      "title": "Renkler",
      "words": [
       "KIRMIZI",
-      "SARI",
+      "TURUNCU",
       "MOR",
       "LACİVERT"
      ]
@@ -818,7 +818,7 @@
      "level": 1,
      "title": "Çiçekler",
      "words": [
-      "GÜL",
+      "GLAYÖL",
       "ORKİDE",
       "SÜMBÜL",
       "NERGİS"
@@ -838,7 +838,7 @@
      "level": 3,
      "title": "Bitki çayları",
      "words": [
-      "ADAÇAYI",
+      "MELİSA",
       "IHLAMUR",
       "KUŞBURNU",
       "PAPATYA"
@@ -1066,7 +1066,7 @@
       "FARE",
       "KLAVYE",
       "EKRAN",
-      "YAZICI"
+      "İŞLEMCİ"
      ]
     },
     {
@@ -1179,7 +1179,7 @@
      "title": "Çorbalar",
      "words": [
       "MERCİMEK",
-      "EZOGELİN",
+      "DOMATES",
       "TARHANA",
       "YAYLA"
      ]
@@ -1188,7 +1188,7 @@
      "level": 2,
      "title": "Düğün",
      "words": [
-      "GELİN",
+      "NEDİME",
       "DAMAT",
       "NİKÂH",
       "KINA"
@@ -1335,7 +1335,7 @@
      "words": [
       "KİRPİK",
       "KAŞ",
-      "GÖZ BEBEĞİ",
+      "İRİS",
       "RETİNA"
      ]
     },
@@ -1413,9 +1413,9 @@
      "level": 2,
      "title": "Evcil hayvanlar",
      "words": [
-      "PAPAĞAN",
+      "KAPLUMBAĞA",
       "HAMSTER",
-      "TAVŞAN",
+      "GİNE DOMUZU",
       "KANARYA"
      ]
     },
@@ -1630,7 +1630,7 @@
      "words": [
       "KAJU",
       "ÇAM FISTIĞI",
-      "MAKADAMYA",
+      "KURU ÜZÜM",
       "PEKAN"
      ]
     },
@@ -1738,7 +1738,7 @@
      "level": 3,
      "title": "Geleneksel gösteriler",
      "words": [
-      "HACİVAT",
+      "TULUAT",
       "ORTA OYUNU",
       "MEDDAH",
       "KUKLA"
@@ -1838,7 +1838,7 @@
      "level": 4,
      "title": "Erkek isimleri",
      "words": [
-      "KAPLAN",
+      "ALP",
       "ASLAN",
       "ATİLLA",
       "ERDEM"
@@ -1946,7 +1946,7 @@
       "GRİP",
       "NEZLE",
       "KIZAMIK",
-      "SU ÇİÇEĞİ"
+      "SUÇİÇEĞİ"
      ]
     },
     {
@@ -2135,7 +2135,7 @@
      "words": [
       "ÖRÜMCEK",
       "ÇIYAN",
-      "DENİZ ANASI",
+      "DENİZANASI",
       "ENGEREK"
      ]
     },
@@ -2180,7 +2180,7 @@
      "words": [
       "YİRMİ",
       "OTUZ",
-      "KIRK",
+      "DOKSAN",
       "SEKSEN"
      ]
     },
@@ -2335,7 +2335,7 @@
      "words": [
       "BAŞ",
       "DİŞ",
-      "MİDE",
+      "KAS",
       "KULAK"
      ]
     }
@@ -2376,7 +2376,7 @@
     },
     {
      "level": 4,
-     "title": "Noktalama işaretleri",
+     "title": "Yazım işaretleri",
      "words": [
       "VİRGÜL",
       "NOKTA",
@@ -2606,7 +2606,7 @@
       "ARP",
       "GİTAR",
       "MANDOLİN",
-      "LİRA"
+      "BAĞLAMA"
      ]
     }
    ]
@@ -2811,7 +2811,7 @@
       "KOL",
       "BACAK",
       "PARMAK",
-      "OMUZ"
+      "AYAK"
      ]
     },
     {
@@ -3101,7 +3101,7 @@
       "MEZAR",
       "KİLOMETRE",
       "BÖBREK",
-      "YAPI"
+      "MİHENK"
      ]
     }
    ]
@@ -3171,7 +3171,7 @@
       "KARDELEN",
       "KANTARON",
       "LAVANTA",
-      "MİMOZA"
+      "PAPATYA"
      ]
     },
     {
@@ -3191,7 +3191,7 @@
       "SEZEN",
       "ÖZGE",
       "BURCU",
-      "ÇİĞDEM"
+      "ELİF"
      ]
     }
    ]
@@ -3216,7 +3216,7 @@
       "KÖRFEZ",
       "KOY",
       "YARIMADA",
-      "ADA"
+      "HALİÇ"
      ]
     },
     {
@@ -3236,7 +3236,7 @@
       "BOĞAZ",
       "BURUN",
       "AĞIZ",
-      "ETEK"
+      "SIRT"
      ]
     }
    ]
@@ -3351,7 +3351,7 @@
       "ZARF",
       "KARGO",
       "KOLİ",
-      "POSTACI"
+      "MEKTUP"
      ]
     },
     {
@@ -3486,7 +3486,7 @@
       "MERMER",
       "GRANİT",
       "BAZALT",
-      "KUVARS"
+      "ANDEZİT"
      ]
     },
     {
@@ -3593,7 +3593,7 @@
      "level": 4,
      "title": "BAL ile başlar",
      "words": [
-      "BALINA",
+      "BALİNA",
       "BAL KABAĞI",
       "BALIKÇIL",
       "BALDIRAN"
@@ -3641,7 +3641,7 @@
       "PERUK",
       "MALİYE",
       "ÇİNİ",
-      "ROMAN"
+      "ÇADIR"
      ]
     }
    ]
@@ -3844,7 +3844,7 @@
      "title": "Erkek isimleri",
      "words": [
       "HALİL",
-      "RECEP",
+      "HAKAN",
       "CEMAL",
       "İLYAS"
      ]
@@ -3909,9 +3909,9 @@
      "title": "KUŞ ile başlar",
      "words": [
       "KUŞKONMAZ",
-      "KUŞTÜYÜ",
+      "KUŞ TÜYÜ",
       "KUŞ LOKUMU",
-      "KUŞ BAKIŞI"
+      "KUŞBAKIŞI"
      ]
     }
    ]
@@ -4041,7 +4041,7 @@
     },
     {
      "level": 4,
-     "title": "Hem nehir hem erkek ismi",
+     "title": "Hem nehir hem kişi adı",
      "words": [
       "MURAT",
       "ARAS",
@@ -4238,7 +4238,7 @@
      "level": 1,
      "title": "Resim boyaları",
      "words": [
-      "SULU BOYA",
+      "SULUBOYA",
       "PASTEL",
       "GUAJ",
       "AKRİLİK"
@@ -4251,7 +4251,7 @@
       "MANDAL",
       "ÇİVİT",
       "SEPET",
-      "KOVA"
+      "İP"
      ]
     },
     {
@@ -4346,7 +4346,7 @@
     },
     {
      "level": 3,
-     "title": "Mekanlar",
+     "title": "Mekânlar",
      "words": [
       "KAFE",
       "PASTANE",
@@ -4438,7 +4438,7 @@
      "level": 3,
      "title": "Göz renkleri",
      "words": [
-      "MAVİ",
+      "SİYAH",
       "YEŞİL",
       "KAHVERENGİ",
       "GRİ"
@@ -4531,7 +4531,7 @@
       "YIĞIN",
       "ÖBEK",
       "TOPLULUK",
-      "GRUP"
+      "SÜRÜ"
      ]
     },
     {
@@ -4599,7 +4599,7 @@
      "title": "Yağmurda",
      "words": [
       "ÇİZME",
-      "YAĞMURLUK",
+      "ŞEMSİYE",
       "BOT",
       "GALOŞ"
      ]
@@ -4686,12 +4686,12 @@
    "groups": [
     {
      "level": 1,
-     "title": "Gece kıyafetleri",
+     "title": "Ev giyimi",
      "words": [
       "PİJAMA",
-      "TERLİK",
       "GECELİK",
-      "SABAHLIK"
+      "SABAHLIK",
+      "ROPDÖŞAMBR"
      ]
     },
     {
@@ -4736,7 +4736,7 @@
       "VALİZ",
       "PASAPORT",
       "OTEL",
-      "TUR"
+      "BİLET"
      ]
     },
     {
@@ -5003,7 +5003,7 @@
      "level": 1,
      "title": "Hücrenin parçaları",
      "words": [
-      "ZAR",
+      "MİTOKONDRİ",
       "RİBOZOM",
       "KOFUL",
       "SİTOPLAZMA"
@@ -5025,7 +5025,7 @@
      "words": [
       "KABUK",
       "SAP",
-      "POSA",
+      "TOHUM",
       "ÇEKİRDEK"
      ]
     },
@@ -5646,7 +5646,7 @@
       "GONDOL",
       "VESPA",
       "KOLEZYUM",
-      "MAKARNA"
+      "PİSA"
      ]
     },
     {
@@ -5655,7 +5655,7 @@
      "words": [
       "SOMBRERO",
       "MARİAÇİ",
-      "NAÇOS",
+      "PİNYATA",
       "KAKTÜS"
      ]
     },
@@ -5835,7 +5835,7 @@
      "words": [
       "FOK",
       "PENGUEN",
-      "KUTUP AYISI",
+      "REN GEYİĞİ",
       "MORS"
      ]
     },
@@ -5871,7 +5871,7 @@
       "TIRAŞ",
       "USTURA",
       "FÖN",
-      "BIYIK"
+      "MAKAS"
      ]
     },
     {
@@ -6003,8 +6003,8 @@
      "level": 2,
      "title": "Havalimanında",
      "words": [
-      "TERMİNAL",
-      "BAGAJ",
+      "APRON",
+      "PASAPORT",
       "PİST",
       "GÜMRÜK"
      ]
@@ -6296,7 +6296,7 @@
       "TÜRBİN",
       "YELKENLİ",
       "FIRILDAK",
-      "RÜZGÂR GÜLÜ"
+      "UÇURTMA"
      ]
     }
    ]
@@ -6374,7 +6374,7 @@
      "title": "___ bilgisi",
      "words": [
       "FEN",
-      "TARİH",
+      "YURT",
       "DİL",
       "HAYAT"
      ]
@@ -6824,7 +6824,7 @@
      "title": "Desen adları",
      "words": [
       "PEPİTA",
-      "BALIK SIRTI",
+      "BALIKSIRTI",
       "KAZAYAĞI",
       "ŞEVRON"
      ]
@@ -6871,7 +6871,7 @@
       "EHİL",
       "ERBAP",
       "ÜSTAT",
-      "DUAYEN"
+      "MAHİR"
      ]
     },
     {
@@ -7118,7 +7118,7 @@
      "level": 1,
      "title": "Ev kiralarken",
      "words": [
-      "KİRA",
+      "SÖZLEŞME",
       "KAPORA",
       "DEPOZİTO",
       "AİDAT"
@@ -7226,7 +7226,7 @@
     },
     {
      "level": 3,
-     "title": "Ateşle ilgili",
+     "title": "Yanınca ortaya çıkar",
      "words": [
       "KIVILCIM",
       "KOR",
@@ -7365,8 +7365,8 @@
      "words": [
       "GAF",
       "KUSUR",
-      "AKSAKLIK",
-      "PÜRÜZ"
+      "YANILGI",
+      "SÜRÇME"
      ]
     },
     {
@@ -7476,7 +7476,7 @@
    "groups": [
     {
      "level": 1,
-     "title": "Sanatçılar",
+     "title": "Görsel sanatlarda",
      "words": [
       "RESSAM",
       "HEYKELTIRAŞ",
@@ -7531,7 +7531,7 @@
     },
     {
      "level": 2,
-     "title": "Göz kusurları",
+     "title": "Göz muayenesinde duyulur",
      "words": [
       "MİYOP",
       "ASTİGMAT",
@@ -7571,12 +7571,12 @@
       "ÇEYİZ",
       "DUVAK",
       "BOHÇA",
-      "GELİNLİK"
+      "KINA"
      ]
     },
     {
      "level": 2,
-     "title": "Çember ve daire terimleri",
+     "title": "Geometride daire",
      "words": [
       "ÇAP",
       "YARIÇAP",
@@ -7588,7 +7588,7 @@
      "level": 3,
      "title": "Nazara karşı",
      "words": [
-      "NAZARLIK",
+      "MAVİ BONCUK",
       "ÜZERLİK",
       "MUSKA",
       "KURŞUN"
@@ -7756,7 +7756,7 @@
     },
     {
      "level": 2,
-     "title": "Saç rengine göre",
+     "title": "Saç ve ten rengine göre",
      "words": [
       "SARIŞIN",
       "ESMER",
@@ -7779,7 +7779,7 @@
      "title": "Çocukluk hastalıkları",
      "words": [
       "KIZAMIK",
-      "SU ÇİÇEĞİ",
+      "SUÇİÇEĞİ",
       "KABAKULAK",
       "BOĞMACA"
      ]
@@ -7858,7 +7858,7 @@
      "level": 3,
      "title": "Gurbetle ilgili",
      "words": [
-      "GURBET",
+      "MEMLEKET",
       "SILA",
       "ÖZLEM",
       "HASRET"
@@ -7891,7 +7891,7 @@
     },
     {
      "level": 2,
-     "title": "Ekmekle yenir",
+     "title": "Ekmekle hazırlanır",
      "words": [
       "TOST",
       "HAMBURGER",
@@ -7906,7 +7906,7 @@
       "KARDELEN",
       "SÜMBÜL",
       "NERGİS",
-      "ZAMBAK"
+      "LALE"
      ]
     },
     {
@@ -8020,7 +8020,7 @@
      "words": [
       "HİLAL",
       "DOLUNAY",
-      "YENİ AY",
+      "YENİAY",
       "İLK DÖRDÜN"
      ]
     },
@@ -8296,12 +8296,12 @@
     },
     {
      "level": 2,
-     "title": "Alışverişte",
+     "title": "Satış sonrası",
      "words": [
-      "İNDİRİM",
-      "KUPON",
       "İADE",
-      "TAKSİT"
+      "DEĞİŞİM",
+      "GARANTİ",
+      "SERVİS"
      ]
     },
     {
@@ -8388,7 +8388,7 @@
      "level": 2,
      "title": "Askeri komutlar",
      "words": [
-      "HAZIROL",
+      "HAZIR OL",
       "RAHAT",
       "DAĞIL",
       "YÜRÜ"
@@ -8436,7 +8436,7 @@
       "YALIN",
       "MÜTEVAZI",
       "DÜZ",
-      "SIRADAN"
+      "GÖSTERİŞSİZ"
      ]
     },
     {
@@ -8455,8 +8455,8 @@
      "words": [
       "BİTTER",
       "PRALİN",
-      "GANAJ",
-      "SÜTLÜ"
+      "FINDIKLI",
+      "BEYAZ"
      ]
     }
    ]
@@ -8486,7 +8486,7 @@
     },
     {
      "level": 3,
-     "title": "Taraftarlar",
+     "title": "Taraftar kültürü",
      "words": [
       "TRİBÜN",
       "TEZAHÜRAT",
