@@ -1,5 +1,5 @@
 {
- "version": 11,
+ "version": 12,
  "puzzles": [
   {
    "id": 1,
@@ -5731,12 +5731,12 @@
     },
     {
      "level": 2,
-     "title": "Cümlenin ögeleri",
+     "title": "Balıkta bulunur",
      "words": [
-      "ÖZNE",
-      "YÜKLEM",
-      "NESNE",
-      "TÜMLEÇ"
+      "YÜZGEÇ",
+      "SOLUNGAÇ",
+      "KILÇIK",
+      "KUYRUK"
      ]
     },
     {
